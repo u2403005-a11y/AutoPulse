@@ -1,0 +1,2001 @@
+brand,model,year,fuel,transmission,km_driven,owner_count,engine_cc,price
+BMW,5 Series,2009,Diesel,Manual,39219,0,3000,23965.88
+BMW,5 Series,2014,Hybrid,Automatic,18962,2,4000,22975.83
+Tesla,Model X,2022,Petrol,Automatic,14037,0,4000,64023.53
+Tesla,Model Y,2016,Electric,Automatic,14017,0,1500,45665.26
+Tesla,Model S,2010,Electric,Manual,1000,0,2000,36194.45
+BMW,X5,2006,Petrol,Automatic,25422,0,3000,14107.14
+Mercedes,GLE,2015,Diesel,Manual,3783,2,1500,24453.27
+Tesla,Model 3,2011,Petrol,Automatic,19877,1,4000,32379.71
+Porsche,Cayenne,2018,Hybrid,Automatic,1000,0,1500,65763.1
+Audi,A4,2018,Diesel,Manual,34539,2,2000,27667.26
+Bugatti,Chiron,2010,Hybrid,Automatic,41397,0,2000,1264620.72
+BMW,5 Series,2018,Diesel,Automatic,40932,1,2000,32897.44
+BMW,X5,2005,Diesel,Manual,61491,0,1000,15602.77
+BMW,5 Series,2011,Diesel,Automatic,4022,1,1000,24221.48
+BMW,X5,2013,Diesel,Manual,28673,0,2000,28279.93
+Audi,A4,2020,Diesel,Automatic,12194,0,1500,32056.98
+Bugatti,Chiron,2016,Diesel,Automatic,2466,2,1500,1664472.47
+BMW,X5,2009,Hybrid,Manual,14597,2,2000,19709.75
+Mercedes,E Class,2008,Petrol,Manual,25714,1,1000,16747.99
+BMW,5 Series,2013,Diesel,Automatic,3032,3,2000,17652.41
+Audi,A4,2009,Electric,Manual,17422,2,3000,15370.57
+Mercedes,GLE,2014,Electric,Automatic,12563,1,3000,23261.7
+Mercedes,C Class,2011,Diesel,Manual,20533,1,3000,19462.73
+Bugatti,Chiron,2017,Diesel,Automatic,40854,0,4000,1960798.25
+Porsche,Cayenne,2011,Hybrid,Manual,98324,0,4000,47812.82
+Tesla,Model S,2012,Hybrid,Manual,3957,2,1500,31880.57
+Audi,A6,2007,Petrol,Automatic,25437,3,4000,12824.82
+Audi,Q7,2014,Petrol,Automatic,6647,2,1500,21688.85
+Mercedes,GLE,2009,Diesel,Manual,8590,0,2000,21786.67
+Tesla,Model 3,2016,Electric,Manual,31842,0,1500,44539.42
+Bugatti,Chiron,2007,Petrol,Manual,50833,0,3000,1126180.29
+Mercedes,E Class,2010,Hybrid,Manual,19112,0,4000,22106.87
+Audi,A4,2022,Petrol,Manual,5436,2,1500,34205.48
+Porsche,Cayenne,2014,Hybrid,Automatic,38257,1,2000,55558.39
+Mercedes,C Class,2009,Electric,Automatic,46351,0,4000,23299.72
+Mercedes,GLE,2021,Electric,Manual,2970,3,1500,33455.86
+Mercedes,C Class,2007,Hybrid,Manual,8697,0,1000,18884.91
+Audi,A6,2016,Petrol,Automatic,21190,2,2000,24754.36
+Mercedes,GLE,2008,Diesel,Automatic,15269,3,3000,14902.13
+Porsche,Cayenne,2008,Electric,Manual,12281,1,3000,35484.85
+Porsche,911,2018,Petrol,Automatic,145237,0,1000,67741.03
+Tesla,Model X,2013,Petrol,Automatic,46167,3,1500,39204.73
+Audi,A4,2018,Diesel,Manual,33297,1,2000,33079.19
+Bugatti,Chiron,2011,Hybrid,Manual,1713,1,2000,1403207.22
+Mercedes,E Class,2007,Hybrid,Manual,1984,0,4000,21717.94
+Mercedes,GLE,2007,Hybrid,Manual,6192,2,2000,16385.82
+Mercedes,GLE,2014,Hybrid,Automatic,7971,3,1500,23191.71
+Audi,A4,2010,Petrol,Automatic,36156,0,3000,20784.89
+Tesla,Model Y,2019,Petrol,Automatic,8858,2,1500,56424.24
+Porsche,Cayenne,2015,Electric,Automatic,10408,2,3000,56235.86
+Audi,A4,2007,Hybrid,Manual,29811,0,1000,16183.12
+Audi,A4,2006,Diesel,Automatic,13854,0,1500,15696.7
+BMW,X5,2005,Hybrid,Manual,13249,1,1500,16176.67
+Bugatti,Chiron,2018,Electric,Automatic,7147,0,4000,1789453.01
+BMW,3 Series,2011,Hybrid,Manual,31301,1,3000,18858.81
+Tesla,Model S,2012,Diesel,Automatic,10412,0,2000,35765.04
+Porsche,911,2006,Petrol,Manual,62174,2,1500,41463.98
+Porsche,Cayenne,2014,Electric,Automatic,1661,2,3000,54470.8
+BMW,5 Series,2015,Hybrid,Automatic,4029,0,1500,26885.98
+BMW,3 Series,2010,Diesel,Manual,10510,2,3000,19316.32
+BMW,3 Series,2014,Hybrid,Automatic,48450,3,2000,22170.36
+Porsche,Cayenne,2019,Diesel,Manual,13546,1,2000,76935.34
+Audi,A4,2020,Diesel,Automatic,9837,3,1000,26150.36
+Porsche,911,2022,Petrol,Automatic,7315,3,3000,84991.17
+Porsche,Panamera,2022,Electric,Automatic,52996,0,4000,77696.01
+Tesla,Model Y,2019,Diesel,Automatic,7353,1,1500,51670.71
+Porsche,Cayenne,2020,Petrol,Manual,16854,2,2000,64465.24
+Audi,Q7,2015,Diesel,Automatic,4749,1,1500,22146.59
+Audi,A6,2010,Hybrid,Manual,2091,2,1500,17732.74
+Audi,A4,2018,Diesel,Automatic,53794,0,2000,26715.09
+Mercedes,C Class,2005,Electric,Automatic,48171,1,4000,15965.95
+Tesla,Model 3,2014,Petrol,Manual,9526,1,1500,42040.24
+Audi,Q7,2011,Petrol,Automatic,1000,0,3000,21135.81
+Porsche,911,2019,Petrol,Manual,52387,1,3000,65055.81
+Porsche,Cayenne,2007,Electric,Manual,7243,3,3000,34571.71
+Mercedes,C Class,2013,Electric,Manual,8873,2,1500,25724.38
+Mercedes,GLE,2011,Diesel,Manual,19215,2,1000,25446.48
+Porsche,Cayenne,2017,Hybrid,Manual,12084,3,4000,54064.4
+Mercedes,GLE,2020,Petrol,Manual,24304,2,3000,33218.4
+Bugatti,Chiron,2018,Diesel,Manual,93623,2,3000,1922778.2
+Porsche,Panamera,2019,Petrol,Automatic,17667,0,3000,73583.16
+BMW,5 Series,2019,Diesel,Automatic,1337,0,4000,37247.22
+Audi,Q7,2019,Diesel,Automatic,50975,2,3000,27914.79
+BMW,X5,2014,Petrol,Manual,19146,1,3000,27823.75
+Audi,A6,2007,Petrol,Manual,5317,0,4000,20775.44
+Audi,Q7,2018,Hybrid,Manual,16625,2,4000,28096.23
+Mercedes,C Class,2015,Petrol,Automatic,7374,2,1000,24301.69
+Mercedes,E Class,2011,Petrol,Manual,90474,1,1000,15622.9
+Porsche,Cayenne,2015,Electric,Automatic,26074,3,3000,56098.11
+Audi,A6,2011,Electric,Automatic,26983,3,1500,18428.52
+BMW,3 Series,2005,Petrol,Automatic,7033,1,1500,16341.97
+Tesla,Model Y,2017,Electric,Manual,41567,1,1500,49236.91
+Tesla,Model S,2022,Diesel,Manual,23818,1,1500,68144.88
+Tesla,Model S,2013,Petrol,Automatic,39678,0,1000,42712.6
+BMW,3 Series,2017,Electric,Manual,5291,0,2000,31556.65
+BMW,3 Series,2016,Petrol,Automatic,14936,2,1000,22812.32
+Tesla,Model Y,2007,Hybrid,Manual,12089,3,4000,19555.4
+Porsche,Panamera,2020,Diesel,Manual,43780,3,2000,73386.18
+Mercedes,E Class,2021,Petrol,Automatic,11974,0,1500,42126.82
+Bugatti,Chiron,2018,Petrol,Manual,4376,3,1000,1690224.69
+Audi,A6,2016,Petrol,Automatic,11650,2,1000,22294.41
+Porsche,Cayenne,2021,Electric,Manual,33495,1,2000,79200.68
+Audi,Q7,2013,Electric,Automatic,6842,2,1000,19940.25
+Audi,A6,2008,Petrol,Automatic,5852,1,1000,17553.95
+Audi,Q7,2021,Electric,Manual,6147,3,1000,33033.61
+Mercedes,E Class,2015,Electric,Manual,23077,0,3000,30741.65
+Tesla,Model 3,2021,Electric,Manual,34874,0,4000,65948.36
+Mercedes,GLE,2014,Diesel,Manual,12489,2,1000,22634.51
+Bugatti,Chiron,2011,Petrol,Automatic,3081,1,3000,1457891.64
+Porsche,911,2011,Electric,Automatic,14190,1,3000,46832.85
+Mercedes,E Class,2013,Diesel,Automatic,16876,0,4000,24799.88
+BMW,X5,2015,Hybrid,Automatic,57362,0,4000,28328.15
+Mercedes,C Class,2019,Hybrid,Automatic,55552,1,2000,31825.78
+Bugatti,Chiron,2014,Petrol,Manual,21283,0,3000,1775635.31
+Mercedes,GLE,2005,Electric,Manual,59278,3,2000,9213.59
+Audi,A6,2006,Electric,Manual,36028,1,1500,16889.03
+Porsche,Panamera,2007,Hybrid,Automatic,3287,1,4000,43349.22
+Porsche,Cayenne,2007,Diesel,Manual,4482,3,4000,32717.72
+Mercedes,C Class,2010,Diesel,Automatic,35662,1,2000,22661.68
+BMW,X5,2017,Petrol,Automatic,21788,3,2000,26010.3
+BMW,3 Series,2007,Hybrid,Automatic,48661,2,1500,18015.16
+Audi,A6,2022,Electric,Automatic,26154,2,3000,32951.74
+Bugatti,Chiron,2020,Electric,Automatic,27633,1,1000,2040127.85
+Porsche,911,2013,Diesel,Automatic,7719,0,4000,50353.38
+Audi,A4,2017,Hybrid,Manual,81576,3,3000,24340.95
+Mercedes,C Class,2008,Electric,Manual,49411,2,1500,18336.36
+Bugatti,Chiron,2014,Electric,Manual,44146,3,1500,1451395.45
+Tesla,Model X,2018,Electric,Automatic,10314,3,1000,46771.96
+BMW,X5,2006,Diesel,Manual,65802,3,1500,13664.71
+Porsche,Cayenne,2006,Petrol,Manual,19092,1,3000,33903.32
+Mercedes,C Class,2012,Diesel,Automatic,9501,3,2000,16014.26
+Bugatti,Chiron,2020,Petrol,Automatic,40118,1,1000,2212491.8
+Tesla,Model X,2018,Hybrid,Manual,6029,1,3000,51086.86
+Audi,A6,2022,Electric,Manual,6774,0,3000,36131.37
+Porsche,Cayenne,2013,Hybrid,Automatic,37750,3,2000,37992.67
+Bugatti,Chiron,2021,Petrol,Automatic,11530,2,1500,2439901.38
+Porsche,Panamera,2018,Diesel,Automatic,37577,2,3000,56440.82
+Tesla,Model 3,2016,Petrol,Manual,49562,3,3000,46016.15
+Tesla,Model Y,2010,Hybrid,Automatic,2953,3,3000,28242.22
+Bugatti,Chiron,2007,Diesel,Manual,12914,0,1000,1119319.58
+Audi,Q7,2005,Electric,Manual,14725,2,4000,11179.64
+Mercedes,GLE,2017,Petrol,Automatic,11519,2,2000,26871.62
+Porsche,Panamera,2016,Diesel,Manual,34821,0,3000,57587.55
+Bugatti,Chiron,2009,Hybrid,Manual,4587,3,1500,1116643.31
+BMW,X5,2015,Hybrid,Automatic,40403,0,2000,32275.59
+Tesla,Model Y,2009,Hybrid,Manual,54940,3,2000,34931.2
+Audi,Q7,2020,Diesel,Automatic,22206,0,4000,33999.88
+Tesla,Model 3,2016,Electric,Automatic,39729,3,1500,43263.49
+Porsche,911,2009,Electric,Manual,20479,3,3000,32170.24
+Tesla,Model X,2015,Hybrid,Manual,20642,3,4000,34329.71
+BMW,X5,2008,Diesel,Manual,7172,1,2000,22993.41
+Porsche,911,2010,Diesel,Manual,49659,3,2000,37955.68
+Porsche,911,2007,Petrol,Manual,7858,3,3000,32535.95
+BMW,3 Series,2011,Electric,Automatic,1000,3,3000,19444.09
+Porsche,Panamera,2007,Diesel,Automatic,82616,1,4000,35654.31
+BMW,X5,2012,Hybrid,Automatic,38002,3,1500,20968.05
+Mercedes,E Class,2012,Diesel,Manual,6150,2,2000,18456.7
+Bugatti,Chiron,2009,Diesel,Automatic,1000,0,1500,1034949.51
+Mercedes,E Class,2012,Hybrid,Automatic,11545,3,2000,16638.7
+Bugatti,Chiron,2007,Diesel,Manual,4547,2,2000,1120627.59
+Porsche,911,2006,Electric,Automatic,1068,0,2000,46337.76
+Mercedes,GLE,2005,Electric,Automatic,15849,1,1000,10789.37
+Bugatti,Chiron,2013,Electric,Manual,4703,1,1500,1636640.91
+Bugatti,Chiron,2016,Electric,Automatic,40592,0,1000,1607236.75
+Bugatti,Chiron,2021,Electric,Automatic,11956,0,4000,1947280.59
+Mercedes,GLE,2022,Petrol,Manual,12672,2,3000,40068.57
+Tesla,Model Y,2007,Electric,Manual,154712,2,1000,33136.35
+BMW,5 Series,2020,Diesel,Automatic,4103,2,1500,31051.4
+Porsche,911,2006,Electric,Automatic,38562,1,3000,34692.42
+Porsche,Panamera,2013,Diesel,Manual,1000,3,1000,46763.64
+Audi,Q7,2017,Hybrid,Automatic,32569,1,3000,27462.32
+Tesla,Model 3,2015,Diesel,Automatic,12413,2,1500,43464.23
+Tesla,Model S,2009,Electric,Automatic,10659,1,3000,33699.86
+Mercedes,C Class,2018,Diesel,Manual,67159,3,3000,25304.54
+Bugatti,Chiron,2017,Diesel,Automatic,22313,0,3000,1963371.95
+Bugatti,Chiron,2018,Petrol,Automatic,3817,2,1500,2043463.2
+Bugatti,Chiron,2014,Electric,Manual,3483,1,3000,1501805.34
+Tesla,Model Y,2021,Hybrid,Manual,15534,3,1000,52202.71
+Mercedes,E Class,2007,Petrol,Manual,103604,2,1000,10912.99
+Audi,A4,2008,Electric,Automatic,53854,0,2000,15825.02
+Bugatti,Chiron,2008,Petrol,Manual,82533,1,4000,1122336.96
+Mercedes,C Class,2018,Hybrid,Automatic,14899,3,1500,30918.85
+Mercedes,E Class,2012,Electric,Automatic,26569,2,3000,21540.45
+Audi,Q7,2006,Petrol,Manual,5738,0,2000,16255.18
+Bugatti,Chiron,2007,Petrol,Automatic,1771,3,4000,1031682.5
+Porsche,911,2011,Petrol,Manual,41207,0,3000,46442.94
+Tesla,Model S,2012,Petrol,Manual,10521,2,1500,30400.04
+BMW,X5,2015,Hybrid,Manual,23176,2,1500,23530.9
+Porsche,Panamera,2018,Electric,Manual,4729,1,2000,70555.67
+Audi,A4,2009,Hybrid,Manual,32541,1,2000,17111.97
+BMW,X5,2010,Electric,Automatic,14921,0,2000,25119.47
+Porsche,Cayenne,2014,Diesel,Automatic,24372,0,3000,56063.52
+Porsche,911,2012,Electric,Automatic,8944,0,4000,54302.29
+Mercedes,GLE,2018,Diesel,Automatic,52569,1,4000,31481.95
+Porsche,911,2018,Petrol,Manual,19572,0,1500,70899.96
+Bugatti,Chiron,2012,Petrol,Manual,20142,2,1000,1306749.04
+Mercedes,C Class,2019,Petrol,Automatic,115545,2,2000,30539.53
+Tesla,Model S,2021,Diesel,Manual,135569,2,3000,57396.56
+Audi,A4,2013,Petrol,Automatic,25287,1,2000,20643.45
+Audi,A6,2015,Diesel,Manual,55052,2,4000,22209.36
+Porsche,911,2016,Petrol,Manual,73994,3,4000,60484.09
+BMW,5 Series,2011,Electric,Automatic,102513,0,1500,25694.58
+Audi,A4,2017,Hybrid,Automatic,15642,3,4000,23326.98
+Tesla,Model Y,2006,Diesel,Automatic,38868,0,1000,31203.74
+BMW,3 Series,2018,Hybrid,Manual,5996,0,3000,34418.75
+Mercedes,E Class,2022,Hybrid,Manual,13568,2,4000,39749.68
+Mercedes,E Class,2022,Diesel,Automatic,6337,2,3000,36529.98
+Bugatti,Chiron,2015,Electric,Automatic,2494,3,4000,1648422.99
+Audi,A4,2016,Petrol,Manual,16278,3,1500,19869.07
+BMW,3 Series,2014,Hybrid,Manual,67891,2,1000,24320.88
+Tesla,Model Y,2015,Hybrid,Automatic,24355,2,1000,41800.24
+Tesla,Model X,2009,Petrol,Manual,96925,2,1500,21878.22
+BMW,X5,2019,Hybrid,Manual,13555,3,1000,30338.51
+Audi,Q7,2014,Diesel,Manual,1507,3,4000,19803.29
+Audi,A4,2014,Diesel,Manual,53797,3,2000,14620.27
+Bugatti,Chiron,2005,Electric,Manual,24748,2,2000,1004171.85
+Bugatti,Chiron,2005,Electric,Manual,12918,3,3000,925291.8
+BMW,X5,2015,Hybrid,Automatic,114182,3,1000,25210.78
+BMW,X5,2005,Diesel,Automatic,29265,0,1500,17422.39
+Porsche,Panamera,2020,Diesel,Automatic,10530,0,4000,77452.9
+BMW,X5,2022,Petrol,Automatic,7776,0,3000,45214.34
+BMW,3 Series,2021,Electric,Manual,5742,1,4000,38338.19
+Tesla,Model 3,2007,Electric,Automatic,29325,3,1000,20609.3
+Tesla,Model Y,2022,Electric,Manual,2265,1,1500,66650.29
+Bugatti,Chiron,2011,Electric,Automatic,4914,0,1500,1529754.15
+Mercedes,C Class,2022,Electric,Manual,11642,3,1500,39478.06
+Porsche,Cayenne,2006,Hybrid,Manual,49055,2,2000,25473.58
+Tesla,Model S,2006,Diesel,Automatic,18673,1,1500,26246.07
+Porsche,Cayenne,2022,Petrol,Manual,165056,2,2000,72968.17
+BMW,3 Series,2011,Petrol,Manual,41941,0,1000,22074.49
+Tesla,Model 3,2013,Hybrid,Automatic,9268,3,4000,28149.32
+Mercedes,E Class,2011,Hybrid,Automatic,61914,1,3000,15643.06
+Bugatti,Chiron,2022,Hybrid,Automatic,68194,1,3000,2210625.5
+BMW,X5,2011,Hybrid,Automatic,63391,0,1500,20567.74
+Porsche,911,2006,Petrol,Automatic,56733,0,2000,44470.49
+Bugatti,Chiron,2011,Petrol,Automatic,65223,3,2000,1260161.62
+BMW,5 Series,2015,Diesel,Manual,135571,1,2000,23074.13
+Audi,A4,2021,Diesel,Manual,16188,3,4000,31469.39
+BMW,3 Series,2012,Petrol,Automatic,70791,3,2000,16648.56
+Audi,Q7,2012,Petrol,Automatic,20718,3,1000,18139.6
+Audi,Q7,2014,Hybrid,Automatic,11515,2,1500,19476.31
+BMW,5 Series,2018,Diesel,Automatic,25809,1,1000,31168.57
+Mercedes,E Class,2018,Diesel,Manual,32984,1,2000,30949.39
+Audi,Q7,2015,Diesel,Automatic,15492,2,4000,21176.22
+Tesla,Model Y,2010,Electric,Automatic,33255,0,1500,33455.66
+Porsche,911,2022,Hybrid,Automatic,29219,3,2000,80801.45
+Mercedes,E Class,2005,Electric,Automatic,21286,3,1500,11526.75
+Tesla,Model 3,2010,Diesel,Automatic,6679,0,2000,38729.14
+Tesla,Model 3,2018,Hybrid,Automatic,8846,3,2000,49127.06
+Porsche,Cayenne,2016,Electric,Automatic,24045,1,1500,60574.5
+Porsche,911,2005,Diesel,Automatic,6184,0,1000,35163.0
+Tesla,Model Y,2007,Diesel,Automatic,1158,1,2000,29702.0
+Mercedes,GLE,2012,Petrol,Automatic,3511,2,2000,22722.18
+Tesla,Model 3,2020,Electric,Automatic,36826,2,4000,51091.95
+Audi,Q7,2022,Hybrid,Manual,5731,2,3000,31030.0
+Audi,A4,2007,Diesel,Automatic,40357,1,2000,16857.01
+Bugatti,Chiron,2019,Hybrid,Manual,72924,3,3000,2072155.1
+Audi,Q7,2019,Diesel,Manual,5527,1,4000,31842.73
+BMW,X5,2006,Petrol,Automatic,19107,3,1000,11436.71
+Mercedes,E Class,2016,Hybrid,Manual,17501,1,3000,26153.13
+Mercedes,C Class,2010,Hybrid,Automatic,9427,3,1000,16117.02
+BMW,X5,2022,Diesel,Automatic,5739,3,1000,38387.98
+Mercedes,GLE,2022,Hybrid,Automatic,49276,3,1500,35003.83
+Bugatti,Chiron,2021,Electric,Automatic,9576,1,3000,2263668.66
+Audi,A4,2006,Hybrid,Manual,8435,3,1000,12755.1
+Porsche,Cayenne,2016,Hybrid,Manual,2415,2,1000,46602.39
+Mercedes,C Class,2015,Diesel,Manual,30464,2,1500,26182.96
+Porsche,Cayenne,2017,Electric,Manual,7299,2,1000,59500.3
+Audi,A6,2012,Electric,Automatic,7378,0,4000,24509.13
+Tesla,Model X,2015,Petrol,Manual,49175,0,2000,48187.42
+Audi,Q7,2007,Petrol,Automatic,53672,3,1500,13600.05
+Porsche,911,2018,Diesel,Automatic,19760,2,4000,60917.61
+Audi,Q7,2021,Electric,Manual,10386,1,4000,37211.22
+Tesla,Model 3,2006,Diesel,Automatic,21151,0,2000,30422.67
+Audi,Q7,2008,Electric,Manual,240931,3,3000,6684.52
+BMW,5 Series,2014,Diesel,Automatic,46347,3,1500,20777.98
+Mercedes,C Class,2021,Diesel,Manual,21406,2,2000,35482.82
+Porsche,Cayenne,2021,Diesel,Manual,56652,1,4000,80779.92
+Audi,A6,2005,Petrol,Manual,1506,3,1000,11956.76
+BMW,5 Series,2021,Diesel,Manual,68966,0,3000,39648.75
+Tesla,Model 3,2008,Electric,Automatic,59107,0,4000,31033.36
+BMW,3 Series,2021,Electric,Automatic,1646,3,1000,34075.54
+Bugatti,Chiron,2015,Petrol,Manual,4579,3,4000,1495295.96
+Tesla,Model Y,2009,Diesel,Automatic,30499,0,3000,28282.02
+Mercedes,GLE,2015,Electric,Automatic,12520,3,2000,25324.63
+Mercedes,E Class,2010,Electric,Manual,1000,1,1000,21838.43
+Tesla,Model Y,2022,Electric,Manual,4353,1,4000,69562.24
+BMW,X5,2015,Electric,Automatic,27704,3,1000,22270.88
+Bugatti,Chiron,2009,Electric,Automatic,1140,2,1500,1336172.37
+Audi,A4,2011,Petrol,Automatic,29149,2,3000,16052.7
+Audi,A6,2006,Petrol,Automatic,114356,1,2000,16482.63
+Tesla,Model X,2012,Petrol,Manual,79516,3,1500,35398.64
+BMW,X5,2011,Electric,Automatic,2130,2,1500,18750.95
+Audi,A4,2016,Diesel,Automatic,118097,3,1500,21008.79
+Bugatti,Chiron,2011,Hybrid,Automatic,85739,3,2000,1385225.57
+Tesla,Model S,2012,Diesel,Manual,77209,2,1000,30640.56
+BMW,3 Series,2013,Electric,Manual,85215,0,1500,26883.75
+Porsche,Panamera,2017,Electric,Manual,24711,2,1000,59962.42
+Porsche,Cayenne,2016,Diesel,Automatic,2044,3,1500,47151.4
+Tesla,Model Y,2019,Electric,Automatic,23232,2,2000,54073.94
+Audi,A6,2012,Hybrid,Automatic,77231,1,2000,21288.84
+BMW,5 Series,2015,Petrol,Automatic,6218,2,1500,26260.83
+BMW,3 Series,2014,Hybrid,Manual,7779,1,4000,26212.25
+Tesla,Model 3,2019,Petrol,Automatic,30600,3,4000,50762.14
+Tesla,Model X,2022,Electric,Manual,7807,3,3000,62846.24
+Tesla,Model S,2005,Hybrid,Automatic,30857,2,1000,27521.03
+BMW,3 Series,2009,Hybrid,Manual,68003,3,4000,15283.01
+Bugatti,Chiron,2017,Hybrid,Automatic,1092,1,2000,1733621.42
+Audi,Q7,2010,Hybrid,Automatic,1169,1,3000,18825.91
+Porsche,Cayenne,2020,Electric,Manual,61462,1,3000,84887.42
+Porsche,Cayenne,2014,Hybrid,Automatic,30993,2,3000,54319.52
+Bugatti,Chiron,2018,Hybrid,Manual,58674,2,1000,1881030.64
+Mercedes,E Class,2017,Diesel,Manual,2561,1,1500,31534.5
+BMW,3 Series,2021,Diesel,Manual,3675,1,2000,36806.67
+Bugatti,Chiron,2019,Diesel,Manual,17313,1,4000,2168033.56
+Audi,A4,2010,Hybrid,Manual,76324,1,2000,17189.33
+Audi,A4,2020,Diesel,Automatic,1057,1,2000,35087.4
+Bugatti,Chiron,2010,Electric,Automatic,33916,3,1500,1486283.11
+Bugatti,Chiron,2021,Petrol,Manual,9975,3,1500,2047635.8
+BMW,X5,2014,Diesel,Automatic,12254,2,4000,24200.74
+Mercedes,C Class,2015,Hybrid,Automatic,115940,1,1000,23592.1
+Tesla,Model S,2015,Electric,Automatic,7679,1,1000,43136.44
+Tesla,Model Y,2007,Electric,Automatic,37290,1,1500,25077.27
+Tesla,Model Y,2007,Petrol,Manual,32720,3,1000,24709.79
+Mercedes,C Class,2021,Electric,Manual,4758,2,4000,36478.75
+BMW,5 Series,2010,Electric,Automatic,9041,3,3000,17175.73
+Porsche,Panamera,2013,Electric,Manual,32398,2,3000,50541.2
+Mercedes,GLE,2012,Hybrid,Manual,2094,3,1500,19848.16
+Mercedes,C Class,2011,Hybrid,Manual,32454,0,3000,26684.15
+Tesla,Model Y,2018,Petrol,Manual,4292,1,2000,50695.85
+Tesla,Model S,2017,Petrol,Manual,39507,0,1500,45457.13
+Bugatti,Chiron,2007,Diesel,Automatic,41559,1,3000,1153158.91
+Porsche,911,2019,Hybrid,Automatic,1402,2,3000,77531.88
+Tesla,Model X,2015,Hybrid,Manual,23044,3,1500,33333.58
+Audi,Q7,2005,Electric,Automatic,90175,3,3000,6850.64
+Mercedes,E Class,2016,Hybrid,Automatic,5703,2,2000,28974.38
+Mercedes,C Class,2020,Petrol,Manual,27641,1,4000,34410.36
+Mercedes,C Class,2016,Diesel,Manual,21232,1,4000,26658.42
+Tesla,Model Y,2009,Electric,Manual,28496,1,1500,39134.76
+Porsche,Panamera,2019,Hybrid,Manual,31058,0,4000,75899.39
+Mercedes,C Class,2022,Petrol,Automatic,7985,0,2000,41210.72
+BMW,X5,2015,Petrol,Automatic,8703,3,1000,26041.7
+BMW,3 Series,2015,Hybrid,Manual,99975,0,1000,26904.52
+Audi,Q7,2016,Electric,Manual,1000,0,1500,24850.18
+Porsche,Cayenne,2016,Diesel,Automatic,30631,2,4000,63387.04
+Porsche,911,2012,Petrol,Manual,21788,3,1500,52209.62
+Audi,Q7,2012,Electric,Automatic,65724,2,4000,15495.34
+Tesla,Model S,2010,Petrol,Automatic,79767,0,4000,30830.94
+Bugatti,Chiron,2007,Hybrid,Manual,100867,3,1000,945296.58
+Bugatti,Chiron,2012,Electric,Automatic,13434,1,3000,1246723.12
+Bugatti,Chiron,2007,Electric,Automatic,22850,3,3000,1097046.91
+Audi,A6,2008,Petrol,Manual,11211,0,1000,20025.88
+Bugatti,Chiron,2017,Petrol,Automatic,12217,0,3000,1872503.53
+Bugatti,Chiron,2010,Diesel,Automatic,50823,3,1500,1296139.98
+Bugatti,Chiron,2008,Electric,Manual,6441,3,4000,906589.27
+Audi,A6,2006,Hybrid,Manual,15989,3,3000,9958.03
+BMW,X5,2016,Electric,Manual,8945,1,1000,33992.49
+Audi,A6,2020,Diesel,Manual,2515,0,1500,32507.98
+BMW,X5,2012,Hybrid,Manual,27664,2,3000,24156.24
+Tesla,Model 3,2018,Petrol,Automatic,27830,3,4000,48846.46
+Tesla,Model Y,2019,Hybrid,Manual,45029,3,1500,58029.15
+Porsche,911,2014,Hybrid,Manual,18949,0,3000,50236.71
+BMW,X5,2012,Diesel,Automatic,31860,2,1000,18963.36
+Porsche,Cayenne,2019,Electric,Manual,14380,3,1500,69945.06
+Porsche,Panamera,2010,Petrol,Manual,15438,1,2000,51802.87
+BMW,3 Series,2012,Petrol,Manual,15370,2,2000,23208.58
+Tesla,Model 3,2006,Petrol,Manual,13831,1,2000,24581.0
+BMW,X5,2007,Petrol,Manual,101797,2,1000,16277.88
+Mercedes,C Class,2017,Hybrid,Automatic,24302,0,2000,29724.37
+Audi,A4,2008,Petrol,Automatic,5368,3,1000,12358.37
+Bugatti,Chiron,2012,Electric,Manual,5148,3,2000,1594732.02
+Bugatti,Chiron,2020,Petrol,Automatic,32916,2,4000,1962562.09
+Audi,A4,2005,Electric,Automatic,38913,1,1000,12803.42
+Tesla,Model S,2013,Diesel,Automatic,17857,0,1500,45414.07
+Tesla,Model Y,2020,Hybrid,Automatic,78516,1,4000,61393.71
+BMW,3 Series,2012,Diesel,Manual,29935,3,2000,19563.5
+BMW,X5,2005,Diesel,Manual,79228,2,1000,11017.19
+Bugatti,Chiron,2018,Diesel,Automatic,50957,3,2000,2039258.1
+Porsche,911,2019,Hybrid,Automatic,15339,1,1500,69319.97
+Tesla,Model S,2016,Electric,Automatic,48843,1,3000,50578.63
+Tesla,Model 3,2010,Electric,Manual,4973,2,3000,25354.99
+Bugatti,Chiron,2006,Hybrid,Automatic,9800,3,2000,823380.01
+Bugatti,Chiron,2011,Hybrid,Automatic,1000,2,4000,1312727.16
+Tesla,Model Y,2019,Electric,Automatic,19189,0,1000,56500.88
+Tesla,Model 3,2017,Electric,Automatic,2670,1,1000,50309.96
+Bugatti,Chiron,2017,Hybrid,Manual,60224,3,3000,1763898.46
+Bugatti,Chiron,2005,Petrol,Manual,35026,0,1000,821177.26
+Tesla,Model Y,2021,Electric,Automatic,5915,3,2000,56440.32
+Tesla,Model X,2008,Diesel,Manual,48620,2,3000,26405.76
+Porsche,Panamera,2018,Electric,Automatic,52915,2,2000,61036.93
+Mercedes,E Class,2021,Electric,Automatic,32186,1,2000,35184.96
+Audi,Q7,2011,Hybrid,Automatic,74421,3,4000,13520.98
+Tesla,Model X,2012,Petrol,Automatic,27153,3,4000,33313.87
+Audi,A4,2010,Electric,Automatic,24303,3,2000,15486.52
+Tesla,Model S,2019,Petrol,Manual,21450,2,1000,54040.37
+Porsche,Cayenne,2009,Hybrid,Automatic,5219,0,1000,37956.33
+Bugatti,Chiron,2022,Petrol,Automatic,5249,3,4000,2210321.29
+Mercedes,E Class,2021,Electric,Automatic,49504,0,4000,39725.63
+Porsche,Panamera,2021,Petrol,Manual,30212,0,3000,76704.18
+Porsche,Cayenne,2005,Hybrid,Manual,43781,1,1000,34901.58
+Mercedes,C Class,2016,Electric,Manual,31336,0,4000,29992.54
+Tesla,Model X,2012,Diesel,Automatic,1412,3,4000,35384.79
+Tesla,Model X,2019,Hybrid,Automatic,43666,3,1000,49911.9
+Bugatti,Chiron,2008,Diesel,Manual,3943,2,4000,1011032.32
+Mercedes,GLE,2019,Petrol,Manual,48374,3,1000,33434.01
+Porsche,Panamera,2018,Hybrid,Automatic,12769,0,4000,72049.78
+Porsche,Panamera,2005,Diesel,Automatic,1000,2,1500,36183.35
+Porsche,Cayenne,2013,Electric,Automatic,35628,2,4000,54719.6
+Audi,A4,2006,Petrol,Automatic,67270,0,4000,19147.96
+Audi,A4,2018,Petrol,Automatic,61428,0,1500,29357.7
+Audi,A4,2010,Petrol,Manual,29064,2,4000,18178.09
+Tesla,Model Y,2015,Petrol,Automatic,71388,1,2000,42851.03
+Porsche,911,2011,Diesel,Automatic,50924,0,4000,48362.45
+Porsche,Panamera,2015,Hybrid,Manual,5581,2,1000,58184.47
+Bugatti,Chiron,2020,Hybrid,Manual,10191,0,3000,2154398.81
+Tesla,Model S,2010,Petrol,Automatic,1000,0,2000,33857.42
+Mercedes,C Class,2015,Diesel,Manual,102862,2,1000,23744.09
+Porsche,911,2022,Hybrid,Manual,1503,0,1500,89360.25
+Porsche,Cayenne,2008,Electric,Manual,97200,0,4000,36930.24
+Porsche,Panamera,2014,Electric,Manual,16928,2,4000,54340.96
+Bugatti,Chiron,2009,Electric,Automatic,39953,0,4000,1307545.02
+Mercedes,C Class,2013,Hybrid,Manual,95837,3,1500,19367.09
+Tesla,Model S,2013,Hybrid,Automatic,23078,1,2000,35836.01
+Tesla,Model X,2010,Hybrid,Automatic,34359,3,1000,28448.16
+Tesla,Model 3,2011,Petrol,Automatic,49406,3,3000,32898.93
+Mercedes,C Class,2016,Electric,Manual,15570,1,2000,33323.22
+Tesla,Model X,2012,Electric,Automatic,16032,1,1500,37476.54
+Porsche,Panamera,2005,Diesel,Manual,41275,0,2000,40035.34
+Porsche,Cayenne,2019,Petrol,Automatic,5808,0,1500,82144.63
+Audi,Q7,2022,Electric,Manual,32892,0,3000,39929.6
+Porsche,Panamera,2020,Diesel,Automatic,6401,3,2000,69479.74
+BMW,3 Series,2010,Diesel,Automatic,95750,2,3000,13686.29
+Tesla,Model Y,2011,Diesel,Automatic,5987,0,2000,36216.26
+Porsche,911,2013,Hybrid,Manual,93196,0,4000,66211.24
+Bugatti,Chiron,2018,Petrol,Automatic,42130,0,4000,2110358.12
+Porsche,911,2005,Petrol,Manual,1000,3,1000,32484.7
+Porsche,911,2008,Hybrid,Manual,1000,1,4000,42772.69
+Mercedes,C Class,2014,Electric,Automatic,25166,3,1500,19417.55
+Bugatti,Chiron,2012,Petrol,Automatic,163294,2,4000,1421094.15
+Porsche,Cayenne,2020,Diesel,Manual,6851,2,1000,72406.32
+Tesla,Model S,2010,Electric,Manual,18373,0,1000,35611.63
+Tesla,Model Y,2020,Electric,Automatic,84787,0,1000,55452.15
+Tesla,Model 3,2013,Electric,Automatic,20769,2,3000,39748.16
+Porsche,Cayenne,2017,Petrol,Manual,5114,0,4000,62514.6
+Mercedes,GLE,2021,Diesel,Manual,29058,2,3000,38540.69
+Mercedes,C Class,2011,Petrol,Automatic,66984,0,2000,24028.6
+Mercedes,E Class,2022,Hybrid,Automatic,4454,0,3000,44612.92
+Bugatti,Chiron,2011,Hybrid,Manual,7233,3,1000,1436504.49
+Audi,A4,2007,Petrol,Automatic,59754,1,1000,13461.44
+Audi,A4,2013,Hybrid,Automatic,32949,3,4000,19138.03
+Mercedes,E Class,2015,Electric,Automatic,50543,0,3000,29193.93
+Porsche,Cayenne,2005,Hybrid,Automatic,39941,0,1500,39242.77
+Mercedes,GLE,2014,Hybrid,Manual,9298,2,1000,22738.03
+Tesla,Model S,2016,Petrol,Manual,3633,1,1500,43963.68
+Mercedes,E Class,2009,Diesel,Automatic,10883,1,3000,20358.14
+Bugatti,Chiron,2006,Hybrid,Manual,62916,1,4000,937221.69
+Mercedes,GLE,2010,Diesel,Manual,23380,1,3000,24815.05
+Porsche,Panamera,2013,Hybrid,Automatic,45798,0,1500,50574.95
+Bugatti,Chiron,2006,Diesel,Automatic,10071,2,1500,1078777.78
+Porsche,Cayenne,2018,Petrol,Manual,5249,1,1500,62768.11
+Porsche,Cayenne,2006,Electric,Manual,1609,3,1500,31844.68
+Bugatti,Chiron,2005,Petrol,Automatic,149344,0,1000,976587.37
+Audi,A4,2016,Electric,Manual,104232,3,4000,18628.3
+Bugatti,Chiron,2020,Diesel,Manual,95664,2,1000,2109961.88
+Audi,A4,2014,Electric,Automatic,12556,0,1000,26104.59
+Bugatti,Chiron,2009,Hybrid,Automatic,1314,1,1500,1511836.86
+Bugatti,Chiron,2008,Electric,Manual,69725,3,4000,1137660.25
+Audi,Q7,2019,Petrol,Manual,5723,3,1000,23288.44
+Mercedes,E Class,2013,Hybrid,Manual,26420,1,2000,21461.15
+BMW,X5,2021,Electric,Manual,28753,2,2000,34882.62
+Audi,A6,2009,Hybrid,Automatic,1000,1,3000,17704.97
+Bugatti,Chiron,2022,Diesel,Manual,10911,2,3000,2271457.25
+Tesla,Model S,2008,Diesel,Automatic,40739,0,3000,31144.37
+Audi,A4,2013,Petrol,Automatic,11345,3,3000,17342.53
+BMW,3 Series,2014,Petrol,Manual,2975,1,1000,27448.53
+Audi,A6,2011,Hybrid,Manual,24189,1,1000,16277.25
+Porsche,Panamera,2016,Electric,Automatic,48364,0,1500,65657.85
+BMW,5 Series,2006,Diesel,Automatic,1909,0,1000,16988.51
+Bugatti,Chiron,2019,Hybrid,Manual,52637,0,1500,2096924.26
+Bugatti,Chiron,2015,Diesel,Manual,38306,2,3000,1718257.51
+Audi,A6,2017,Diesel,Manual,11606,3,1500,23787.43
+Mercedes,E Class,2007,Diesel,Manual,39649,3,2000,10610.96
+Porsche,Panamera,2014,Petrol,Automatic,48604,2,3000,55012.34
+BMW,X5,2022,Diesel,Manual,1000,3,1000,34166.6
+Audi,Q7,2007,Electric,Manual,30694,2,2000,12804.59
+Tesla,Model Y,2015,Petrol,Automatic,46516,1,1500,46665.92
+Audi,Q7,2005,Petrol,Manual,14872,3,1500,11767.95
+Bugatti,Chiron,2021,Diesel,Automatic,25705,3,1500,2229474.63
+Audi,A6,2012,Petrol,Manual,10507,2,3000,18046.99
+Bugatti,Chiron,2006,Petrol,Automatic,1490,0,1000,955847.42
+Porsche,911,2007,Hybrid,Manual,53280,3,1500,37290.54
+BMW,5 Series,2016,Hybrid,Automatic,1000,0,1500,33416.18
+Tesla,Model 3,2011,Diesel,Manual,24747,1,1500,40015.66
+Mercedes,E Class,2022,Diesel,Manual,64669,2,4000,38516.81
+Bugatti,Chiron,2008,Diesel,Automatic,1000,3,3000,993830.58
+Tesla,Model 3,2016,Petrol,Manual,43262,2,3000,52030.97
+Audi,A4,2017,Petrol,Manual,55424,0,1000,26686.15
+Audi,Q7,2022,Hybrid,Automatic,23878,3,1000,30434.27
+Porsche,911,2021,Hybrid,Manual,17786,1,3000,81962.57
+Bugatti,Chiron,2017,Hybrid,Automatic,11350,3,3000,1969719.52
+BMW,X5,2014,Hybrid,Automatic,5113,3,3000,23255.91
+Tesla,Model 3,2011,Electric,Automatic,31707,0,1000,39195.41
+Bugatti,Chiron,2010,Diesel,Automatic,36355,0,2000,1259327.73
+Mercedes,GLE,2019,Petrol,Manual,16568,1,4000,33179.17
+BMW,3 Series,2022,Hybrid,Manual,63443,1,3000,39393.45
+Mercedes,E Class,2020,Diesel,Manual,14678,2,1000,34524.11
+Audi,Q7,2015,Hybrid,Automatic,94460,0,2000,26271.03
+BMW,X5,2018,Electric,Manual,6274,2,4000,28903.19
+BMW,3 Series,2011,Diesel,Automatic,7475,2,1000,22480.51
+Audi,A4,2018,Hybrid,Manual,43205,2,3000,23544.49
+BMW,3 Series,2013,Petrol,Automatic,54414,2,4000,24158.22
+BMW,5 Series,2010,Petrol,Automatic,28646,1,1500,17944.5
+Bugatti,Chiron,2011,Hybrid,Manual,14211,0,2000,1487838.0
+Bugatti,Chiron,2022,Hybrid,Automatic,7594,1,2000,2439616.36
+Audi,A4,2020,Electric,Automatic,12586,0,4000,36206.54
+BMW,5 Series,2013,Diesel,Automatic,2614,2,3000,22584.5
+Bugatti,Chiron,2019,Electric,Manual,7525,2,4000,2036238.44
+Tesla,Model S,2006,Diesel,Automatic,53074,1,1500,24201.14
+BMW,5 Series,2015,Hybrid,Automatic,14682,0,1500,25725.5
+Audi,A6,2006,Electric,Automatic,84855,1,4000,12862.0
+Mercedes,C Class,2019,Diesel,Manual,7156,2,1000,27833.79
+Porsche,Panamera,2013,Petrol,Manual,3140,1,1000,54119.65
+Porsche,911,2008,Hybrid,Automatic,11052,3,4000,27914.96
+Audi,Q7,2013,Diesel,Automatic,23165,3,4000,17873.56
+BMW,X5,2013,Hybrid,Automatic,2666,2,1500,22922.42
+Tesla,Model Y,2022,Hybrid,Automatic,46557,3,4000,61145.84
+Porsche,911,2012,Petrol,Automatic,18886,1,1000,48070.04
+Mercedes,E Class,2021,Hybrid,Manual,134327,2,2000,32275.43
+BMW,X5,2020,Electric,Automatic,5473,3,1000,34103.56
+Porsche,911,2022,Hybrid,Manual,41003,1,1500,82238.64
+BMW,3 Series,2011,Electric,Automatic,96573,3,4000,18590.69
+BMW,5 Series,2012,Diesel,Automatic,31870,1,1000,22879.19
+Porsche,Panamera,2017,Hybrid,Automatic,2188,3,1500,63033.57
+Porsche,Cayenne,2010,Electric,Automatic,73925,3,2000,35629.93
+Mercedes,GLE,2007,Diesel,Automatic,67386,3,2000,13038.3
+BMW,3 Series,2019,Hybrid,Automatic,16440,3,1000,28202.7
+Bugatti,Chiron,2006,Diesel,Manual,21387,1,2000,1110448.55
+Audi,A6,2022,Electric,Automatic,8642,0,4000,35769.37
+Porsche,Panamera,2005,Hybrid,Automatic,24585,3,1000,33612.4
+BMW,3 Series,2021,Diesel,Manual,18493,3,2000,33755.26
+BMW,X5,2007,Petrol,Manual,11245,1,3000,16446.91
+BMW,3 Series,2016,Hybrid,Manual,24701,2,1500,23723.28
+Tesla,Model S,2013,Petrol,Automatic,37526,3,1500,35041.54
+BMW,X5,2010,Diesel,Manual,28945,2,3000,19497.71
+Bugatti,Chiron,2009,Diesel,Automatic,67345,1,4000,1300526.24
+Audi,Q7,2012,Hybrid,Automatic,51960,3,2000,14861.03
+Audi,A6,2006,Petrol,Automatic,16978,2,2000,9908.37
+Porsche,Panamera,2019,Electric,Manual,21347,3,4000,57941.51
+BMW,5 Series,2021,Electric,Manual,8126,1,3000,37566.0
+BMW,3 Series,2018,Electric,Manual,1000,2,4000,30004.83
+BMW,5 Series,2019,Diesel,Manual,10128,2,1500,30528.7
+Porsche,Panamera,2022,Electric,Automatic,8168,3,3000,84058.31
+Porsche,911,2020,Hybrid,Manual,26986,1,4000,75485.98
+Porsche,911,2011,Petrol,Manual,53764,0,1000,48772.12
+Bugatti,Chiron,2017,Hybrid,Automatic,82414,3,2000,1786725.43
+Mercedes,GLE,2020,Diesel,Manual,7434,0,4000,36116.4
+Bugatti,Chiron,2022,Petrol,Automatic,63439,3,1000,2500401.33
+Mercedes,GLE,2022,Electric,Automatic,7790,0,1000,43289.78
+Tesla,Model 3,2019,Diesel,Automatic,39642,2,2000,51175.42
+Porsche,Cayenne,2021,Hybrid,Automatic,13900,2,2000,85501.76
+Porsche,911,2020,Diesel,Automatic,17189,0,4000,77238.48
+Audi,A6,2009,Electric,Automatic,7519,2,2000,12625.51
+Tesla,Model S,2005,Electric,Manual,12512,2,3000,23458.83
+Bugatti,Chiron,2006,Electric,Manual,36078,0,4000,1081256.77
+Audi,A6,2005,Electric,Manual,12056,3,4000,8466.03
+Audi,A6,2005,Petrol,Automatic,15526,3,2000,12610.26
+Mercedes,GLE,2016,Petrol,Automatic,34132,3,3000,32049.65
+Audi,A4,2017,Diesel,Automatic,43651,2,4000,25441.5
+Bugatti,Chiron,2017,Petrol,Automatic,7741,2,3000,1759787.92
+Tesla,Model X,2014,Electric,Automatic,14908,1,1500,45348.43
+Porsche,Panamera,2008,Petrol,Manual,73620,3,1000,37641.31
+Tesla,Model Y,2015,Diesel,Automatic,15564,3,2000,45575.72
+Tesla,Model S,2005,Electric,Automatic,135030,0,1000,20199.79
+Mercedes,E Class,2021,Petrol,Automatic,1914,3,4000,29453.2
+BMW,3 Series,2020,Diesel,Automatic,25816,3,1000,31494.29
+Audi,A4,2008,Hybrid,Manual,6803,1,3000,19109.57
+Mercedes,C Class,2021,Petrol,Automatic,1505,3,2000,29742.43
+Bugatti,Chiron,2022,Electric,Automatic,90810,1,3000,2344887.43
+BMW,3 Series,2022,Electric,Manual,13813,0,1500,46684.23
+Audi,A4,2008,Electric,Manual,2130,0,4000,19191.68
+Tesla,Model X,2021,Hybrid,Manual,9417,1,4000,63338.37
+Mercedes,C Class,2022,Diesel,Manual,3606,0,2000,41062.83
+Tesla,Model X,2005,Electric,Automatic,21181,0,1000,30042.84
+Audi,A4,2022,Petrol,Manual,10903,0,2000,37644.98
+Mercedes,C Class,2013,Petrol,Automatic,14865,0,3000,29582.6
+Mercedes,GLE,2016,Diesel,Automatic,6535,0,1500,33108.61
+Porsche,Panamera,2020,Hybrid,Manual,59949,2,3000,71981.24
+Mercedes,GLE,2010,Hybrid,Manual,15697,2,1500,21703.63
+BMW,3 Series,2019,Petrol,Automatic,14588,3,1500,26752.64
+Audi,Q7,2009,Petrol,Manual,10345,1,3000,19710.16
+Tesla,Model Y,2018,Electric,Manual,22396,2,3000,51805.27
+Tesla,Model X,2019,Diesel,Manual,32123,2,4000,47799.75
+Mercedes,E Class,2021,Hybrid,Manual,82172,3,3000,31585.77
+Porsche,Panamera,2022,Electric,Manual,30379,2,3000,79099.37
+BMW,5 Series,2020,Hybrid,Manual,24052,1,1500,33844.38
+Bugatti,Chiron,2017,Electric,Automatic,1000,1,1000,1951126.37
+Porsche,Panamera,2022,Hybrid,Automatic,30885,0,2000,87457.66
+Mercedes,C Class,2018,Hybrid,Automatic,18389,2,1000,31055.35
+Mercedes,C Class,2022,Hybrid,Automatic,35390,0,1000,43804.81
+Audi,A4,2010,Electric,Manual,13296,0,3000,18653.76
+Audi,A6,2021,Diesel,Manual,1271,1,1000,34725.55
+BMW,3 Series,2005,Electric,Manual,7418,3,1500,12083.02
+Tesla,Model X,2007,Hybrid,Manual,34051,1,4000,29815.09
+BMW,5 Series,2018,Diesel,Manual,49958,3,3000,32876.42
+Bugatti,Chiron,2021,Electric,Manual,23805,0,3000,2075532.73
+Tesla,Model S,2020,Diesel,Automatic,16277,0,4000,60245.13
+Bugatti,Chiron,2010,Hybrid,Manual,3385,1,4000,1213408.67
+Audi,A4,2017,Hybrid,Automatic,18290,2,1500,25769.61
+Bugatti,Chiron,2022,Diesel,Automatic,57790,0,1500,2473046.89
+BMW,3 Series,2017,Petrol,Automatic,34367,2,4000,31154.77
+Mercedes,GLE,2011,Diesel,Manual,51191,3,1500,18412.26
+Tesla,Model Y,2014,Petrol,Manual,67408,2,3000,36340.96
+Mercedes,E Class,2011,Petrol,Automatic,15372,0,4000,25346.15
+Tesla,Model S,2007,Petrol,Automatic,91584,2,1000,26757.61
+BMW,5 Series,2020,Petrol,Automatic,153915,0,4000,33724.39
+Tesla,Model X,2014,Hybrid,Manual,20477,3,3000,41256.91
+Audi,Q7,2013,Hybrid,Manual,2369,1,1000,21819.87
+Porsche,Cayenne,2007,Hybrid,Automatic,5125,0,4000,34878.48
+Porsche,911,2012,Electric,Automatic,49241,2,3000,45549.94
+Mercedes,C Class,2015,Diesel,Automatic,37396,1,4000,27409.92
+BMW,5 Series,2008,Diesel,Manual,35401,3,3000,14408.83
+BMW,3 Series,2007,Hybrid,Automatic,6710,3,2000,9949.16
+Mercedes,E Class,2006,Hybrid,Manual,23917,3,4000,12841.08
+Porsche,Cayenne,2020,Hybrid,Manual,32680,1,2000,81138.34
+Porsche,Cayenne,2010,Electric,Automatic,5571,3,4000,43880.23
+Tesla,Model X,2020,Petrol,Automatic,15871,2,2000,58844.47
+Audi,Q7,2021,Diesel,Automatic,26354,3,2000,30496.59
+Tesla,Model X,2014,Petrol,Automatic,19232,0,4000,42773.21
+BMW,5 Series,2021,Electric,Automatic,2266,1,2000,40843.44
+Porsche,Panamera,2019,Electric,Manual,7964,2,1500,65153.52
+BMW,X5,2022,Diesel,Automatic,23714,2,1500,38456.88
+Mercedes,E Class,2018,Electric,Manual,60461,0,2000,35601.49
+Porsche,911,2007,Petrol,Automatic,61813,3,1000,31988.54
+Mercedes,C Class,2012,Petrol,Manual,24323,2,4000,19235.59
+BMW,5 Series,2022,Petrol,Automatic,87308,2,1000,36713.86
+Bugatti,Chiron,2007,Petrol,Manual,59209,1,1500,1282105.61
+BMW,3 Series,2013,Diesel,Manual,38397,0,1000,25665.17
+Bugatti,Chiron,2019,Diesel,Automatic,11000,3,3000,1943812.71
+Bugatti,Chiron,2009,Hybrid,Automatic,49329,3,1000,1103394.99
+BMW,5 Series,2012,Diesel,Automatic,1000,2,2000,22942.54
+Audi,A4,2018,Petrol,Automatic,17280,0,2000,32564.87
+Bugatti,Chiron,2008,Diesel,Automatic,65686,0,2000,1158943.12
+Porsche,Cayenne,2017,Electric,Automatic,28939,0,4000,66149.66
+BMW,5 Series,2010,Petrol,Manual,15248,0,1000,22097.7
+Bugatti,Chiron,2020,Petrol,Manual,85498,3,1500,2392920.31
+BMW,5 Series,2013,Petrol,Manual,19475,1,1500,23131.67
+Mercedes,E Class,2015,Hybrid,Automatic,47618,2,1000,23086.3
+Porsche,911,2010,Petrol,Manual,8367,1,4000,50273.25
+Bugatti,Chiron,2017,Hybrid,Automatic,34663,3,2000,1772692.54
+Audi,A6,2006,Diesel,Manual,100507,1,1500,9853.28
+Tesla,Model Y,2008,Petrol,Manual,13624,1,1500,31338.07
+Mercedes,C Class,2020,Hybrid,Manual,3628,2,1000,35292.33
+Mercedes,C Class,2006,Electric,Automatic,78021,2,3000,11874.21
+Porsche,Cayenne,2021,Hybrid,Automatic,23450,2,3000,83804.83
+Tesla,Model 3,2014,Electric,Automatic,37254,2,3000,40378.4
+Bugatti,Chiron,2013,Petrol,Manual,11706,1,1500,1629337.72
+Bugatti,Chiron,2013,Petrol,Manual,65516,2,1000,1275655.79
+Porsche,Panamera,2018,Diesel,Automatic,66858,1,1500,61428.05
+Mercedes,GLE,2014,Hybrid,Manual,50079,1,3000,24727.31
+BMW,3 Series,2008,Diesel,Manual,39754,0,1500,20823.76
+Bugatti,Chiron,2013,Petrol,Automatic,49800,0,4000,1124741.17
+Audi,A6,2012,Diesel,Automatic,2463,0,1000,27271.61
+BMW,X5,2005,Petrol,Automatic,1332,3,4000,9875.86
+Mercedes,E Class,2006,Diesel,Automatic,30977,0,1000,18719.09
+BMW,3 Series,2008,Hybrid,Automatic,6470,1,4000,22016.36
+Tesla,Model Y,2008,Petrol,Automatic,67580,2,1000,26907.46
+Bugatti,Chiron,2007,Hybrid,Manual,1000,3,2000,1135940.19
+Tesla,Model S,2014,Petrol,Manual,5319,2,1500,34512.91
+Tesla,Model S,2007,Diesel,Manual,43609,1,4000,26062.01
+BMW,X5,2015,Diesel,Automatic,130987,3,3000,17059.16
+Audi,A6,2015,Petrol,Automatic,51734,2,1000,20425.24
+Mercedes,C Class,2005,Electric,Manual,19383,1,3000,15893.48
+Mercedes,E Class,2019,Electric,Manual,30457,3,1500,26084.36
+Audi,A6,2015,Electric,Automatic,7309,1,2000,21211.57
+Bugatti,Chiron,2014,Hybrid,Automatic,3875,1,1500,1441969.01
+Audi,A4,2012,Petrol,Manual,171250,0,1500,20731.45
+Porsche,Panamera,2012,Diesel,Automatic,21664,1,2000,50481.06
+BMW,5 Series,2020,Electric,Manual,1000,2,2000,31033.34
+Mercedes,E Class,2021,Diesel,Manual,9081,3,3000,36379.07
+Tesla,Model S,2022,Diesel,Manual,53461,3,1000,61370.66
+Audi,A4,2007,Hybrid,Automatic,31430,0,1000,16890.04
+Tesla,Model 3,2012,Electric,Manual,36269,0,2000,41699.07
+BMW,3 Series,2008,Hybrid,Manual,111499,0,1500,23112.05
+BMW,X5,2017,Diesel,Manual,1014,1,2000,31854.17
+Audi,A6,2008,Hybrid,Manual,16364,0,4000,16263.36
+Tesla,Model S,2013,Petrol,Manual,46186,0,4000,41290.64
+Porsche,911,2019,Diesel,Manual,4432,0,2000,71329.73
+BMW,3 Series,2021,Petrol,Manual,11244,2,4000,36186.42
+Bugatti,Chiron,2006,Diesel,Manual,26475,2,1500,1149010.98
+BMW,5 Series,2022,Petrol,Automatic,12787,2,1000,42134.94
+Porsche,Cayenne,2011,Electric,Automatic,1000,0,1500,52536.16
+BMW,X5,2018,Petrol,Automatic,22946,2,1000,29790.37
+Porsche,911,2005,Petrol,Manual,23186,0,3000,34530.16
+Bugatti,Chiron,2021,Diesel,Manual,8462,1,3000,2261799.02
+BMW,3 Series,2009,Electric,Manual,4088,3,1000,14635.09
+Bugatti,Chiron,2020,Diesel,Manual,65962,2,2000,2115564.63
+Audi,Q7,2009,Hybrid,Automatic,13770,1,2000,20427.77
+Mercedes,GLE,2011,Hybrid,Automatic,35130,1,4000,21767.98
+BMW,5 Series,2014,Electric,Automatic,61486,3,2000,19577.91
+Mercedes,GLE,2020,Hybrid,Automatic,3068,2,1500,34308.61
+Mercedes,E Class,2021,Petrol,Manual,17565,2,4000,37544.67
+Audi,Q7,2015,Electric,Automatic,9728,0,4000,29469.36
+Mercedes,GLE,2019,Electric,Automatic,9194,3,1500,33399.81
+Porsche,Panamera,2017,Petrol,Automatic,111858,2,2000,56361.05
+Porsche,Cayenne,2005,Petrol,Manual,27644,3,2000,28774.84
+Mercedes,C Class,2013,Hybrid,Automatic,43827,3,1500,23208.29
+Mercedes,E Class,2022,Petrol,Manual,91573,2,4000,36576.43
+Audi,A6,2019,Hybrid,Manual,26351,0,3000,30241.08
+Mercedes,E Class,2020,Electric,Manual,45713,2,1000,30726.54
+Mercedes,C Class,2022,Electric,Automatic,52829,0,1500,40509.4
+Audi,A4,2011,Electric,Automatic,16226,3,1000,15574.65
+Audi,Q7,2016,Hybrid,Manual,2967,3,4000,21279.26
+Bugatti,Chiron,2012,Diesel,Automatic,73691,2,2000,1473157.37
+Bugatti,Chiron,2005,Petrol,Manual,21418,3,2000,1050451.27
+Bugatti,Chiron,2019,Diesel,Manual,103075,0,1500,2047580.8
+Mercedes,C Class,2006,Diesel,Automatic,67678,0,1000,18575.99
+Porsche,Panamera,2007,Hybrid,Manual,19016,1,1500,33821.98
+BMW,3 Series,2021,Petrol,Manual,9449,2,3000,33491.86
+Bugatti,Chiron,2013,Petrol,Automatic,72401,3,1000,1545267.6
+BMW,X5,2005,Electric,Manual,20312,0,4000,17088.67
+Porsche,Cayenne,2008,Diesel,Manual,13487,3,4000,37961.59
+Bugatti,Chiron,2017,Electric,Automatic,19438,0,1500,1941187.0
+BMW,X5,2005,Diesel,Automatic,28978,2,4000,13441.85
+BMW,5 Series,2013,Diesel,Automatic,13537,0,4000,30571.17
+Bugatti,Chiron,2015,Electric,Automatic,88735,3,4000,1420882.82
+Porsche,Cayenne,2011,Electric,Automatic,56059,3,4000,44543.31
+Mercedes,GLE,2011,Hybrid,Automatic,68482,2,2000,19608.45
+Mercedes,E Class,2005,Electric,Automatic,10721,1,1000,16760.94
+Audi,A6,2007,Diesel,Automatic,3944,1,4000,16036.55
+Mercedes,C Class,2021,Electric,Automatic,48767,0,1500,40423.17
+Porsche,Cayenne,2005,Electric,Manual,80179,3,1500,36042.72
+Bugatti,Chiron,2012,Electric,Manual,36227,2,3000,1496478.97
+Audi,Q7,2010,Diesel,Automatic,12693,3,1000,12339.32
+BMW,5 Series,2009,Petrol,Automatic,19731,0,2000,21143.7
+Tesla,Model 3,2014,Petrol,Automatic,77557,0,4000,46338.52
+Bugatti,Chiron,2016,Electric,Manual,50532,1,1000,1700174.5
+Bugatti,Chiron,2008,Petrol,Automatic,20911,2,4000,1258105.56
+BMW,X5,2013,Hybrid,Manual,97869,0,4000,23203.79
+BMW,3 Series,2019,Petrol,Automatic,13581,1,1500,31992.46
+Bugatti,Chiron,2011,Diesel,Manual,3676,2,2000,1334130.01
+Porsche,Cayenne,2009,Electric,Automatic,1000,2,3000,39451.04
+Bugatti,Chiron,2005,Petrol,Automatic,10252,3,3000,1028941.69
+BMW,5 Series,2017,Diesel,Manual,65391,0,2000,33845.44
+BMW,X5,2020,Petrol,Automatic,3970,0,1000,38268.42
+Porsche,Cayenne,2022,Hybrid,Automatic,1000,1,1500,82948.33
+Porsche,Cayenne,2016,Electric,Automatic,37872,0,4000,60628.52
+Porsche,911,2006,Petrol,Automatic,144411,1,2000,33160.0
+Porsche,911,2017,Petrol,Automatic,1077,0,2000,66223.45
+BMW,X5,2017,Petrol,Manual,16945,2,4000,29653.04
+Porsche,Cayenne,2009,Petrol,Automatic,28294,2,1500,40770.46
+Bugatti,Chiron,2022,Petrol,Manual,15779,0,4000,2345858.77
+Tesla,Model Y,2010,Diesel,Manual,14357,3,1000,26976.77
+Porsche,Cayenne,2019,Hybrid,Automatic,30794,1,1500,69967.31
+Tesla,Model S,2013,Petrol,Automatic,1317,1,3000,39039.7
+Mercedes,E Class,2015,Electric,Manual,4728,3,4000,19641.15
+Audi,A6,2012,Hybrid,Automatic,18124,2,3000,21063.99
+Audi,Q7,2018,Diesel,Manual,219460,2,1500,22341.91
+BMW,3 Series,2021,Petrol,Manual,52698,0,3000,36737.79
+Porsche,Cayenne,2019,Petrol,Manual,14957,3,3000,64096.49
+Audi,A6,2022,Hybrid,Manual,37611,3,1500,31217.05
+Bugatti,Chiron,2022,Hybrid,Automatic,40662,0,4000,2333636.78
+Porsche,Panamera,2011,Hybrid,Manual,34872,1,4000,47186.16
+Tesla,Model X,2013,Electric,Manual,12842,0,2000,44839.39
+Tesla,Model Y,2009,Diesel,Manual,34720,1,3000,30219.23
+Audi,A6,2020,Diesel,Manual,7702,1,1500,31963.74
+Porsche,Cayenne,2014,Electric,Manual,23695,2,3000,59743.19
+Mercedes,C Class,2011,Diesel,Automatic,6985,2,4000,22683.56
+Tesla,Model Y,2020,Petrol,Automatic,16844,3,1500,52821.93
+BMW,5 Series,2008,Petrol,Automatic,24978,2,4000,17746.09
+Bugatti,Chiron,2013,Diesel,Manual,4333,0,1500,1428996.72
+Porsche,Cayenne,2017,Petrol,Automatic,13847,3,4000,58323.01
+Tesla,Model Y,2015,Diesel,Automatic,14205,0,2000,40101.87
+Bugatti,Chiron,2008,Petrol,Automatic,36274,2,3000,1333765.55
+Porsche,Cayenne,2018,Electric,Manual,2674,2,1500,62189.59
+Tesla,Model 3,2012,Petrol,Manual,35231,0,3000,41711.99
+Mercedes,C Class,2012,Electric,Automatic,24872,2,4000,20151.47
+Tesla,Model Y,2007,Diesel,Automatic,43744,0,1500,36348.77
+Mercedes,C Class,2017,Electric,Manual,59913,1,3000,27023.67
+Porsche,Panamera,2007,Petrol,Manual,47107,2,1500,35831.19
+BMW,5 Series,2005,Electric,Automatic,75206,2,1500,15137.37
+Tesla,Model 3,2017,Diesel,Manual,69101,1,2000,48438.62
+Porsche,911,2022,Diesel,Manual,21971,3,3000,78546.83
+Bugatti,Chiron,2018,Diesel,Automatic,1370,0,3000,2082762.07
+BMW,3 Series,2006,Diesel,Automatic,51264,1,4000,13716.93
+Porsche,911,2007,Electric,Automatic,1000,0,2000,39609.53
+Bugatti,Chiron,2011,Hybrid,Manual,45396,0,3000,1406180.82
+Porsche,911,2017,Diesel,Automatic,58391,0,1500,69601.09
+Audi,Q7,2018,Diesel,Automatic,49563,1,3000,25069.49
+Audi,Q7,2019,Petrol,Automatic,50628,0,2000,31259.93
+Audi,A6,2016,Electric,Automatic,5267,1,2000,25645.83
+Bugatti,Chiron,2013,Diesel,Manual,36737,3,2000,1612390.99
+Porsche,Cayenne,2005,Petrol,Manual,3167,2,3000,37487.06
+Porsche,Panamera,2014,Hybrid,Manual,30480,0,3000,51908.4
+Bugatti,Chiron,2005,Petrol,Automatic,2827,0,2000,1219135.34
+Mercedes,E Class,2018,Petrol,Manual,79633,0,4000,29155.12
+Bugatti,Chiron,2005,Hybrid,Automatic,8728,2,1500,1073951.81
+Mercedes,GLE,2017,Hybrid,Manual,9785,0,2000,34917.83
+Mercedes,E Class,2006,Petrol,Manual,9244,0,1500,14034.03
+Audi,A6,2021,Hybrid,Automatic,58627,1,1000,34590.8
+BMW,3 Series,2006,Electric,Manual,16789,2,4000,18252.19
+Bugatti,Chiron,2005,Hybrid,Automatic,20410,1,3000,1044957.23
+BMW,3 Series,2013,Diesel,Manual,11484,3,1500,24329.46
+Tesla,Model X,2006,Hybrid,Manual,12364,0,2000,29012.83
+BMW,5 Series,2007,Petrol,Manual,25200,3,3000,15440.56
+Mercedes,C Class,2010,Diesel,Manual,41837,2,2000,17793.6
+BMW,3 Series,2018,Hybrid,Manual,1794,0,3000,36061.3
+Bugatti,Chiron,2012,Diesel,Automatic,36853,1,2000,1297456.01
+Mercedes,GLE,2019,Hybrid,Manual,18597,0,3000,33737.81
+Mercedes,GLE,2019,Electric,Manual,24377,3,3000,36099.25
+Audi,A4,2022,Petrol,Automatic,41232,0,4000,41200.88
+Porsche,911,2010,Petrol,Manual,51701,0,1500,50506.72
+Porsche,Cayenne,2007,Electric,Automatic,46749,3,3000,28240.44
+Tesla,Model S,2010,Hybrid,Manual,36512,3,1500,26453.69
+Tesla,Model Y,2010,Hybrid,Manual,6922,0,3000,37208.87
+Porsche,911,2016,Electric,Automatic,16713,0,4000,56318.55
+Audi,A6,2018,Diesel,Automatic,24684,1,1000,27448.87
+Tesla,Model Y,2009,Diesel,Manual,24006,0,2000,37551.56
+Tesla,Model 3,2014,Electric,Automatic,87187,3,4000,32095.78
+BMW,3 Series,2011,Electric,Manual,18107,3,4000,15418.8
+Bugatti,Chiron,2010,Electric,Manual,5758,2,2000,1413132.64
+BMW,5 Series,2010,Electric,Manual,35382,1,1500,22790.83
+BMW,3 Series,2007,Diesel,Automatic,30730,3,3000,13084.15
+Bugatti,Chiron,2016,Diesel,Automatic,27248,2,4000,1753411.57
+Audi,A4,2017,Hybrid,Manual,1918,2,4000,26112.01
+Audi,A4,2017,Hybrid,Automatic,74728,2,1000,23506.39
+Mercedes,C Class,2008,Petrol,Manual,69450,2,1000,13491.91
+Bugatti,Chiron,2006,Electric,Manual,28886,1,2000,876780.03
+Mercedes,C Class,2013,Diesel,Automatic,26779,1,1500,21849.35
+Tesla,Model X,2012,Diesel,Manual,1000,1,4000,41330.41
+Mercedes,E Class,2015,Electric,Manual,53625,1,4000,22708.37
+Tesla,Model Y,2008,Hybrid,Manual,13278,0,1500,29335.46
+Bugatti,Chiron,2011,Electric,Automatic,77565,1,3000,1156700.91
+Mercedes,C Class,2020,Hybrid,Automatic,12496,2,3000,35578.95
+BMW,3 Series,2018,Diesel,Manual,11778,3,1000,24115.22
+Mercedes,E Class,2021,Diesel,Manual,3016,0,4000,42289.17
+Tesla,Model Y,2006,Electric,Manual,1000,1,1000,26187.42
+Mercedes,E Class,2012,Diesel,Automatic,49740,2,2000,18698.14
+Audi,A6,2015,Hybrid,Automatic,27787,3,2000,21310.92
+Mercedes,E Class,2020,Diesel,Automatic,13738,3,4000,33013.38
+Bugatti,Chiron,2013,Petrol,Manual,71084,2,1500,1495055.3
+Bugatti,Chiron,2018,Petrol,Manual,16001,2,3000,2005778.8
+Mercedes,C Class,2015,Petrol,Manual,23049,1,1000,26721.62
+Bugatti,Chiron,2016,Petrol,Manual,36504,0,1500,1623768.68
+Bugatti,Chiron,2007,Electric,Manual,34912,1,2000,1351716.4
+Audi,A4,2014,Electric,Automatic,13155,1,3000,24235.81
+Porsche,Panamera,2022,Hybrid,Automatic,6647,2,3000,76913.59
+Tesla,Model S,2018,Petrol,Manual,51896,2,3000,50238.29
+Bugatti,Chiron,2014,Diesel,Manual,21959,1,2000,1405504.94
+Tesla,Model Y,2010,Electric,Manual,38820,3,1000,25671.14
+Audi,A6,2011,Hybrid,Automatic,14504,0,1500,24425.68
+Mercedes,C Class,2019,Petrol,Manual,1080,0,4000,38995.98
+Porsche,Cayenne,2020,Petrol,Manual,37969,2,1500,71861.1
+BMW,3 Series,2017,Electric,Automatic,16590,2,4000,30388.14
+Audi,Q7,2018,Diesel,Automatic,25497,0,1000,31843.76
+Audi,A6,2011,Hybrid,Automatic,25149,2,2000,20838.2
+Bugatti,Chiron,2021,Diesel,Manual,11065,0,2000,2433788.38
+Tesla,Model Y,2017,Hybrid,Manual,69259,0,1000,50301.29
+Audi,Q7,2015,Electric,Manual,55273,0,4000,28676.92
+BMW,3 Series,2020,Diesel,Manual,17681,2,1500,34896.45
+BMW,X5,2005,Hybrid,Manual,12889,0,1500,16678.8
+Porsche,Cayenne,2016,Hybrid,Automatic,8984,3,1000,55276.45
+Bugatti,Chiron,2014,Electric,Manual,5629,0,1500,1565392.37
+Tesla,Model Y,2009,Diesel,Automatic,50912,2,3000,30094.07
+Tesla,Model S,2019,Petrol,Automatic,12961,2,2000,54324.67
+Tesla,Model 3,2012,Petrol,Automatic,6793,0,1000,41613.01
+Audi,A6,2008,Petrol,Manual,2179,2,1500,14716.22
+Audi,Q7,2010,Petrol,Manual,53141,2,1000,14298.58
+Mercedes,C Class,2019,Electric,Automatic,11523,2,1000,30683.48
+BMW,5 Series,2012,Electric,Automatic,13276,3,2000,19876.3
+BMW,5 Series,2017,Hybrid,Manual,3226,2,3000,26323.16
+Bugatti,Chiron,2006,Petrol,Manual,23337,3,3000,1077065.32
+Bugatti,Chiron,2020,Electric,Automatic,8586,1,4000,2118234.35
+Tesla,Model X,2016,Diesel,Manual,183357,1,4000,41278.32
+Audi,A6,2012,Diesel,Manual,28977,3,4000,18230.65
+Bugatti,Chiron,2020,Diesel,Automatic,4697,3,4000,2167078.15
+Tesla,Model X,2010,Petrol,Automatic,17703,0,3000,36171.52
+Bugatti,Chiron,2011,Petrol,Automatic,25093,0,3000,1471548.94
+Audi,A4,2019,Hybrid,Automatic,19744,3,2000,27096.76
+Porsche,911,2016,Petrol,Manual,14458,3,1000,56049.33
+Mercedes,C Class,2010,Diesel,Manual,31986,2,2000,17827.12
+Porsche,911,2007,Petrol,Manual,131686,0,1000,36510.73
+Porsche,Cayenne,2021,Petrol,Automatic,1000,0,4000,82552.46
+Audi,A4,2009,Hybrid,Automatic,2470,2,2000,14185.67
+Bugatti,Chiron,2017,Electric,Automatic,72898,3,3000,1931726.21
+Porsche,Panamera,2012,Electric,Manual,36930,2,1000,39413.26
+Porsche,Panamera,2011,Hybrid,Manual,39628,3,3000,42425.57
+Mercedes,GLE,2011,Diesel,Automatic,3443,3,1000,13778.73
+BMW,3 Series,2019,Petrol,Automatic,42724,1,3000,33220.12
+Audi,A4,2016,Petrol,Automatic,20712,0,4000,29818.11
+Porsche,Panamera,2022,Petrol,Automatic,14785,1,2000,86666.65
+Porsche,911,2006,Diesel,Manual,81453,3,4000,38311.92
+Porsche,Panamera,2020,Diesel,Manual,1000,3,2000,72371.82
+Porsche,Cayenne,2009,Electric,Automatic,27210,1,2000,39874.18
+Bugatti,Chiron,2006,Diesel,Manual,58571,1,1500,1039224.81
+Tesla,Model S,2006,Diesel,Manual,27995,0,1500,31760.4
+Audi,Q7,2014,Diesel,Manual,18082,2,3000,20675.0
+Tesla,Model S,2018,Electric,Automatic,15003,2,1000,48179.26
+Porsche,Cayenne,2018,Petrol,Automatic,77932,3,4000,63103.77
+Audi,A6,2009,Electric,Automatic,1000,1,4000,18817.9
+Bugatti,Chiron,2016,Diesel,Automatic,61029,3,1000,1778186.65
+Audi,Q7,2009,Hybrid,Manual,87978,1,1500,15415.76
+Tesla,Model 3,2015,Diesel,Automatic,1306,1,3000,42702.96
+Porsche,Cayenne,2022,Hybrid,Manual,18746,1,1500,74374.62
+Mercedes,E Class,2011,Diesel,Manual,13727,1,1000,23589.29
+BMW,5 Series,2021,Electric,Manual,23502,0,1500,42851.18
+Audi,Q7,2011,Hybrid,Automatic,15937,1,2000,20946.22
+Porsche,Panamera,2015,Diesel,Automatic,4928,1,1000,55589.05
+Porsche,Cayenne,2007,Diesel,Manual,1000,1,4000,35810.53
+Tesla,Model 3,2021,Petrol,Automatic,18998,1,4000,63586.24
+Mercedes,GLE,2011,Hybrid,Manual,100291,3,4000,23355.88
+Audi,Q7,2005,Hybrid,Automatic,25965,3,3000,8366.49
+Tesla,Model Y,2007,Electric,Automatic,2442,1,2000,30413.19
+Tesla,Model Y,2022,Petrol,Automatic,8486,2,1500,63640.79
+Mercedes,E Class,2006,Diesel,Automatic,106586,2,1000,14245.3
+Porsche,Panamera,2019,Electric,Manual,44027,1,2000,65434.51
+Bugatti,Chiron,2013,Electric,Automatic,13106,3,4000,1601324.56
+BMW,X5,2018,Electric,Automatic,69745,2,2000,32502.78
+Porsche,Panamera,2015,Diesel,Automatic,161194,0,1000,56029.39
+Bugatti,Chiron,2022,Hybrid,Automatic,35159,0,3000,2160353.04
+Mercedes,C Class,2008,Diesel,Manual,1344,3,3000,11915.84
+Audi,A6,2010,Diesel,Automatic,32393,0,4000,20175.48
+Audi,A4,2010,Hybrid,Manual,1684,0,1000,18044.56
+Audi,Q7,2006,Electric,Manual,26555,2,4000,13947.34
+Porsche,Cayenne,2010,Diesel,Manual,1573,3,2000,36767.64
+BMW,3 Series,2011,Electric,Manual,65010,2,3000,19607.87
+Audi,Q7,2019,Hybrid,Manual,6887,2,4000,29116.33
+BMW,3 Series,2011,Diesel,Automatic,39970,2,2000,21599.24
+Bugatti,Chiron,2021,Petrol,Automatic,7259,2,2000,2475697.02
+Audi,A6,2019,Diesel,Automatic,52851,2,3000,25852.2
+Bugatti,Chiron,2018,Hybrid,Manual,28157,2,3000,1964739.7
+BMW,5 Series,2021,Petrol,Automatic,27286,0,3000,39074.09
+Audi,A6,2014,Petrol,Automatic,11936,2,2000,19803.14
+Tesla,Model S,2007,Electric,Automatic,11085,2,3000,27917.69
+Audi,Q7,2020,Electric,Automatic,60162,2,2000,25801.9
+Porsche,911,2022,Petrol,Automatic,1000,2,1500,86771.34
+Audi,A4,2017,Hybrid,Manual,27938,1,3000,28089.89
+BMW,X5,2018,Petrol,Automatic,15594,1,1500,29827.15
+Bugatti,Chiron,2021,Petrol,Manual,5864,1,4000,2350776.07
+Mercedes,C Class,2016,Petrol,Automatic,63243,0,4000,29452.27
+Mercedes,C Class,2007,Diesel,Automatic,4532,1,3000,17232.36
+Bugatti,Chiron,2019,Electric,Manual,26790,2,2000,1841947.34
+BMW,3 Series,2008,Hybrid,Automatic,1112,3,1500,16135.53
+BMW,X5,2022,Petrol,Automatic,1593,2,4000,35556.66
+Porsche,Cayenne,2010,Diesel,Manual,36304,3,1500,37652.43
+BMW,5 Series,2021,Electric,Automatic,9180,1,3000,36554.06
+Mercedes,E Class,2016,Hybrid,Manual,51935,2,1500,22188.44
+BMW,5 Series,2016,Petrol,Manual,4986,2,1500,28360.71
+Tesla,Model Y,2021,Petrol,Automatic,12998,0,1000,60978.9
+Tesla,Model 3,2006,Petrol,Automatic,1877,1,1000,25585.64
+Porsche,911,2017,Petrol,Automatic,39031,3,3000,52231.13
+Porsche,911,2008,Electric,Automatic,5939,1,4000,42413.72
+BMW,5 Series,2019,Electric,Automatic,77243,2,2000,28783.13
+Bugatti,Chiron,2010,Diesel,Automatic,96162,3,4000,1381191.67
+Porsche,911,2005,Hybrid,Automatic,2505,0,1500,38357.97
+Audi,A6,2022,Electric,Automatic,6539,0,2000,39503.07
+Audi,A4,2017,Diesel,Automatic,58418,0,1500,28237.32
+Bugatti,Chiron,2017,Diesel,Manual,11478,1,2000,1896034.35
+Audi,A6,2014,Diesel,Automatic,6183,3,1500,19724.65
+Mercedes,E Class,2006,Hybrid,Automatic,74791,0,1000,17954.53
+Audi,A6,2011,Electric,Automatic,81901,2,1500,14391.75
+Tesla,Model 3,2022,Hybrid,Manual,15837,1,4000,61137.73
+Tesla,Model S,2005,Petrol,Manual,10623,1,1500,26948.66
+Porsche,Cayenne,2012,Diesel,Automatic,45070,0,2000,50150.44
+BMW,3 Series,2016,Petrol,Automatic,23867,0,1500,35566.1
+Mercedes,C Class,2011,Hybrid,Automatic,12986,2,4000,18918.52
+Audi,A6,2006,Diesel,Automatic,5343,3,4000,9017.8
+Audi,A6,2015,Petrol,Automatic,48174,2,1500,19284.13
+Audi,A6,2010,Electric,Automatic,6972,0,4000,18925.55
+Bugatti,Chiron,2015,Hybrid,Automatic,24335,0,3000,1705677.98
+Bugatti,Chiron,2014,Electric,Automatic,17601,2,2000,1657642.83
+Audi,A6,2015,Diesel,Manual,63593,0,1000,24915.83
+Audi,Q7,2006,Electric,Automatic,124337,1,4000,13289.99
+BMW,X5,2016,Electric,Manual,15949,1,2000,31420.34
+Porsche,Panamera,2018,Diesel,Automatic,4151,3,2000,54375.55
+Audi,A6,2014,Electric,Manual,66274,1,1000,25456.63
+Porsche,Panamera,2015,Hybrid,Manual,26926,2,2000,58821.41
+Tesla,Model S,2021,Diesel,Manual,8496,2,4000,56354.24
+BMW,X5,2019,Diesel,Manual,3466,2,1000,34270.05
+Tesla,Model X,2017,Diesel,Automatic,76125,2,1000,41154.28
+Porsche,Panamera,2018,Diesel,Automatic,1327,3,4000,65395.51
+Audi,A4,2017,Hybrid,Automatic,1000,1,1000,28169.36
+Tesla,Model S,2018,Diesel,Manual,48102,1,1500,51232.06
+Tesla,Model 3,2010,Diesel,Manual,3917,0,1500,38844.79
+Audi,A6,2013,Hybrid,Manual,58387,2,3000,20039.82
+Bugatti,Chiron,2019,Petrol,Manual,141418,0,1000,2045293.58
+Tesla,Model S,2016,Petrol,Automatic,38182,3,3000,41444.94
+Porsche,911,2021,Electric,Automatic,3455,1,2000,77779.69
+Audi,Q7,2017,Hybrid,Automatic,41054,1,4000,27382.78
+Tesla,Model X,2009,Petrol,Manual,61615,2,2000,32001.68
+Audi,Q7,2009,Diesel,Automatic,17194,0,1000,18087.78
+Tesla,Model S,2014,Electric,Automatic,11418,2,4000,45125.48
+BMW,X5,2013,Diesel,Manual,82276,3,3000,20717.51
+BMW,3 Series,2012,Petrol,Automatic,65078,3,2000,21260.32
+BMW,5 Series,2007,Electric,Manual,26185,0,1500,18086.39
+BMW,5 Series,2016,Diesel,Automatic,7251,3,4000,19097.61
+Tesla,Model X,2014,Electric,Automatic,7211,3,2000,39778.51
+Audi,A6,2006,Diesel,Manual,36577,1,1500,17885.44
+Bugatti,Chiron,2007,Petrol,Manual,73708,2,2000,1060198.95
+Mercedes,GLE,2019,Petrol,Automatic,26539,1,2000,33270.98
+Mercedes,GLE,2019,Diesel,Manual,32309,2,1500,33443.4
+Audi,A4,2022,Petrol,Manual,59606,0,1500,41594.03
+Bugatti,Chiron,2006,Electric,Manual,16301,0,1500,1081563.17
+Mercedes,E Class,2022,Diesel,Manual,32885,2,1000,39879.41
+Porsche,911,2009,Petrol,Automatic,14406,2,2000,46946.5
+Bugatti,Chiron,2008,Petrol,Manual,22786,2,1500,1235755.75
+Tesla,Model Y,2011,Diesel,Manual,94095,1,4000,40095.4
+Bugatti,Chiron,2019,Diesel,Manual,54275,3,1500,1977608.09
+BMW,5 Series,2019,Electric,Automatic,38891,2,4000,34027.66
+Tesla,Model Y,2021,Diesel,Manual,18328,3,1000,55425.38
+Audi,A6,2013,Hybrid,Manual,24319,1,1000,23070.16
+Bugatti,Chiron,2021,Petrol,Manual,35594,1,2000,2261184.82
+Mercedes,GLE,2005,Diesel,Automatic,59568,0,3000,16447.55
+BMW,X5,2007,Diesel,Automatic,4592,1,1000,18777.6
+Audi,A6,2017,Diesel,Automatic,55923,1,1500,26092.44
+Mercedes,E Class,2019,Petrol,Automatic,19052,0,4000,37987.46
+Bugatti,Chiron,2021,Diesel,Manual,15265,2,4000,2303655.9
+Tesla,Model 3,2005,Petrol,Manual,21092,3,4000,21207.73
+Tesla,Model Y,2019,Electric,Automatic,14578,0,1000,58966.05
+Bugatti,Chiron,2005,Hybrid,Automatic,32641,1,4000,1154410.01
+Mercedes,GLE,2009,Petrol,Automatic,24410,0,2000,26012.47
+BMW,X5,2018,Electric,Automatic,4491,1,4000,32724.91
+Audi,A4,2009,Electric,Automatic,19660,0,2000,20972.21
+Audi,A4,2009,Hybrid,Automatic,1000,2,2000,14877.13
+Mercedes,GLE,2005,Electric,Manual,81358,1,3000,11589.15
+Tesla,Model 3,2007,Diesel,Manual,10142,3,2000,25613.89
+Tesla,Model X,2012,Electric,Automatic,63174,3,4000,30854.34
+Audi,Q7,2014,Electric,Automatic,38406,3,1000,16524.41
+Bugatti,Chiron,2020,Petrol,Automatic,1217,0,1000,2164858.41
+Bugatti,Chiron,2022,Diesel,Manual,18437,0,2000,2369084.15
+BMW,X5,2009,Electric,Automatic,42695,3,2000,14123.65
+Audi,A6,2013,Electric,Manual,51275,1,1500,21677.56
+Tesla,Model 3,2022,Hybrid,Automatic,25007,1,3000,62645.21
+Porsche,911,2010,Hybrid,Automatic,100323,1,1500,35741.03
+Tesla,Model 3,2015,Electric,Automatic,66398,3,1000,39988.38
+Tesla,Model S,2013,Electric,Manual,4969,0,2000,44133.59
+Bugatti,Chiron,2018,Electric,Manual,27375,3,3000,1823598.0
+Mercedes,E Class,2009,Petrol,Automatic,16216,1,1000,21092.45
+BMW,3 Series,2022,Diesel,Manual,3323,3,1000,35098.52
+Bugatti,Chiron,2022,Petrol,Manual,11792,2,4000,2397419.22
+Audi,Q7,2022,Diesel,Manual,88172,2,4000,31748.35
+Mercedes,GLE,2010,Electric,Manual,34375,2,1500,21502.28
+Mercedes,C Class,2015,Petrol,Automatic,15591,3,1500,20754.71
+Tesla,Model Y,2009,Hybrid,Manual,3781,0,1500,36614.86
+Porsche,911,2012,Petrol,Manual,21025,3,2000,47739.81
+Tesla,Model S,2009,Petrol,Automatic,40444,2,4000,32095.43
+BMW,3 Series,2008,Electric,Automatic,77650,1,2000,18226.49
+BMW,5 Series,2021,Petrol,Automatic,17218,0,1000,40206.42
+Mercedes,GLE,2017,Hybrid,Manual,41219,3,1000,30503.85
+Audi,A4,2018,Hybrid,Automatic,41437,3,1500,22289.55
+Bugatti,Chiron,2015,Diesel,Manual,31639,2,4000,1581467.33
+Porsche,Cayenne,2008,Electric,Manual,2484,0,1000,45272.94
+Porsche,Cayenne,2016,Petrol,Manual,148364,0,3000,54122.31
+Porsche,Panamera,2012,Hybrid,Automatic,54110,3,3000,45613.92
+Mercedes,E Class,2011,Electric,Manual,48115,3,4000,17560.07
+Bugatti,Chiron,2022,Hybrid,Manual,73254,1,2000,2390791.31
+Porsche,Cayenne,2017,Diesel,Automatic,9315,1,1000,63017.34
+Porsche,911,2011,Diesel,Manual,1000,3,2000,45317.18
+Mercedes,E Class,2022,Diesel,Automatic,38146,3,1500,35578.12
+Porsche,Cayenne,2016,Diesel,Manual,24253,3,1000,59232.58
+Audi,Q7,2015,Electric,Manual,11216,0,4000,23989.08
+Porsche,Cayenne,2016,Diesel,Manual,3442,2,4000,61852.57
+Mercedes,C Class,2018,Hybrid,Manual,15904,0,1000,33760.13
+BMW,X5,2017,Electric,Manual,12434,1,1000,27207.06
+Bugatti,Chiron,2013,Diesel,Manual,13227,0,2000,1363556.96
+Mercedes,C Class,2017,Diesel,Manual,10023,0,4000,35906.98
+Bugatti,Chiron,2015,Electric,Manual,37873,3,2000,1663692.51
+Mercedes,GLE,2021,Diesel,Automatic,8798,2,4000,37214.16
+Bugatti,Chiron,2017,Electric,Manual,39152,2,4000,1798593.54
+Porsche,Panamera,2005,Petrol,Automatic,96513,1,4000,18800.22
+Tesla,Model X,2021,Electric,Manual,14428,1,2000,62203.57
+Bugatti,Chiron,2011,Petrol,Manual,4560,1,1000,1388002.84
+Bugatti,Chiron,2005,Diesel,Manual,6315,3,1500,932745.53
+Mercedes,E Class,2019,Electric,Manual,25600,3,1000,31955.6
+Porsche,911,2011,Electric,Manual,32827,3,4000,49964.32
+Porsche,911,2005,Petrol,Manual,43831,2,1000,35097.3
+Audi,Q7,2015,Diesel,Automatic,40241,2,1500,17823.57
+Mercedes,GLE,2013,Petrol,Manual,11333,0,2000,26487.28
+Mercedes,E Class,2009,Hybrid,Manual,29865,0,3000,21085.59
+Porsche,Cayenne,2021,Hybrid,Manual,15870,2,3000,79157.08
+BMW,3 Series,2010,Petrol,Automatic,12365,2,2000,19334.3
+Porsche,Cayenne,2019,Petrol,Automatic,6945,3,4000,63821.24
+Bugatti,Chiron,2005,Petrol,Manual,47488,2,1500,896992.17
+BMW,5 Series,2009,Diesel,Automatic,24427,3,4000,15630.35
+Bugatti,Chiron,2020,Petrol,Manual,54591,3,2000,2281304.95
+Bugatti,Chiron,2014,Electric,Manual,37847,3,1500,1539626.74
+Tesla,Model S,2014,Diesel,Manual,1183,2,3000,39031.41
+Mercedes,C Class,2009,Hybrid,Manual,19226,3,4000,16687.05
+BMW,3 Series,2016,Petrol,Manual,44939,1,1500,29528.91
+BMW,3 Series,2008,Diesel,Manual,59084,3,3000,13559.78
+Audi,A6,2018,Diesel,Manual,39550,3,4000,28888.22
+BMW,5 Series,2018,Petrol,Automatic,18125,2,2000,31375.06
+Bugatti,Chiron,2021,Diesel,Manual,2184,3,3000,2282852.21
+Porsche,Cayenne,2013,Electric,Automatic,21796,2,4000,47992.77
+Bugatti,Chiron,2006,Diesel,Automatic,5185,1,2000,1149872.01
+Mercedes,E Class,2010,Petrol,Automatic,16113,1,2000,21358.65
+Audi,Q7,2012,Hybrid,Manual,46567,1,4000,16450.78
+Tesla,Model X,2006,Hybrid,Automatic,6274,2,1000,23655.52
+Porsche,Cayenne,2007,Petrol,Automatic,22538,0,1500,33745.17
+Porsche,Cayenne,2006,Diesel,Automatic,9339,1,1000,38849.51
+Tesla,Model S,2019,Petrol,Manual,1000,1,1500,53384.86
+Bugatti,Chiron,2006,Petrol,Automatic,16416,2,1000,984548.07
+BMW,3 Series,2005,Hybrid,Manual,3873,3,4000,13121.37
+Audi,Q7,2021,Petrol,Automatic,38517,1,2000,33316.8
+Porsche,911,2008,Petrol,Manual,20570,1,2000,42431.09
+Bugatti,Chiron,2005,Electric,Manual,8180,1,1500,957551.52
+Porsche,911,2016,Electric,Manual,130940,3,4000,51808.79
+Bugatti,Chiron,2008,Diesel,Manual,53293,2,1500,1153318.79
+Bugatti,Chiron,2020,Diesel,Automatic,64897,1,3000,2173829.7
+BMW,X5,2011,Electric,Automatic,16430,0,1000,24130.35
+Mercedes,E Class,2017,Electric,Manual,28971,1,4000,29991.22
+BMW,3 Series,2008,Hybrid,Manual,22744,1,1000,20742.57
+Tesla,Model Y,2012,Diesel,Automatic,71748,1,1000,37858.61
+Tesla,Model X,2020,Hybrid,Manual,87508,3,1000,50298.54
+Audi,A4,2006,Electric,Manual,9945,2,1500,9980.46
+Bugatti,Chiron,2009,Petrol,Manual,7722,2,3000,1318087.32
+BMW,X5,2018,Diesel,Automatic,9259,1,4000,29507.6
+BMW,5 Series,2018,Electric,Manual,3453,0,3000,34120.04
+Porsche,Cayenne,2012,Petrol,Automatic,36663,0,1500,53521.32
+Audi,Q7,2005,Hybrid,Automatic,26004,1,1500,14859.18
+Tesla,Model X,2010,Petrol,Automatic,4956,0,1000,37930.26
+Mercedes,C Class,2022,Petrol,Automatic,11252,0,1000,44448.62
+Tesla,Model Y,2011,Diesel,Automatic,24959,1,1500,38224.34
+Mercedes,GLE,2008,Hybrid,Automatic,1509,3,1500,14823.39
+Bugatti,Chiron,2013,Diesel,Automatic,6065,1,4000,1384605.56
+Tesla,Model Y,2010,Diesel,Automatic,10942,2,4000,30666.15
+Tesla,Model S,2014,Hybrid,Manual,29088,1,3000,43949.14
+Tesla,Model S,2022,Electric,Manual,17873,1,3000,61750.5
+Porsche,Cayenne,2018,Diesel,Manual,13191,1,3000,66652.91
+Mercedes,GLE,2012,Electric,Manual,3796,1,3000,22958.05
+Audi,A6,2008,Diesel,Manual,43205,2,2000,11880.86
+Bugatti,Chiron,2006,Diesel,Automatic,15397,0,3000,1033042.55
+Mercedes,E Class,2010,Electric,Automatic,1836,1,1500,23966.81
+Tesla,Model 3,2005,Hybrid,Manual,156709,3,1000,21710.65
+Audi,Q7,2020,Electric,Automatic,1108,3,2000,28361.47
+Porsche,911,2006,Diesel,Automatic,5239,1,1000,34089.87
+BMW,X5,2022,Diesel,Manual,70456,3,3000,34632.67
+Audi,A6,2017,Electric,Automatic,3154,1,1500,28382.12
+Mercedes,GLE,2009,Diesel,Manual,56558,3,1000,11889.12
+Audi,A6,2008,Electric,Automatic,31468,3,3000,12914.71
+Porsche,911,2007,Hybrid,Automatic,2596,2,1500,34095.09
+BMW,X5,2011,Electric,Manual,9984,2,4000,21988.18
+Porsche,Cayenne,2022,Diesel,Manual,19609,3,1500,82793.02
+Mercedes,C Class,2021,Petrol,Automatic,75566,2,1500,36328.61
+Bugatti,Chiron,2008,Diesel,Automatic,20306,2,4000,1161290.2
+Audi,A6,2008,Hybrid,Manual,14782,0,1500,17263.18
+Bugatti,Chiron,2018,Petrol,Automatic,11215,0,2000,2027813.51
+BMW,X5,2007,Diesel,Automatic,3258,0,4000,23447.27
+Tesla,Model Y,2009,Diesel,Automatic,21683,3,1000,24442.57
+Bugatti,Chiron,2020,Petrol,Automatic,21613,2,1500,2207112.85
+Audi,A6,2022,Hybrid,Automatic,26159,3,1500,30894.18
+Porsche,911,2007,Electric,Automatic,3824,0,1000,36800.41
+Audi,A4,2008,Electric,Automatic,86376,3,1000,11551.91
+Bugatti,Chiron,2017,Petrol,Manual,3023,1,4000,1843396.38
+Bugatti,Chiron,2014,Hybrid,Manual,41218,0,1000,1590197.61
+Porsche,Panamera,2021,Electric,Automatic,15201,3,4000,72389.53
+Tesla,Model Y,2007,Hybrid,Automatic,20368,0,1500,32542.02
+Bugatti,Chiron,2019,Diesel,Manual,34230,1,3000,2197241.08
+Mercedes,C Class,2009,Electric,Automatic,38348,0,1500,17154.56
+Mercedes,E Class,2010,Petrol,Manual,178486,2,1500,13445.24
+Mercedes,C Class,2019,Petrol,Automatic,54335,1,4000,37596.71
+Bugatti,Chiron,2017,Hybrid,Automatic,79816,0,1500,1846472.77
+Bugatti,Chiron,2005,Electric,Manual,5001,1,1000,919766.68
+BMW,5 Series,2017,Hybrid,Manual,64160,0,4000,33252.96
+BMW,5 Series,2012,Petrol,Automatic,11248,0,1500,28269.9
+Audi,A4,2013,Hybrid,Manual,6701,2,1500,22263.29
+Mercedes,GLE,2006,Hybrid,Manual,1761,0,4000,13793.12
+Tesla,Model 3,2012,Petrol,Manual,85924,1,1500,34822.74
+Mercedes,E Class,2015,Petrol,Manual,30967,0,3000,29203.23
+Bugatti,Chiron,2018,Electric,Manual,2390,1,3000,1905973.16
+BMW,5 Series,2014,Electric,Automatic,3195,1,3000,26079.4
+Mercedes,E Class,2020,Electric,Automatic,29961,0,3000,37260.01
+Porsche,Cayenne,2007,Electric,Automatic,3707,1,1500,38001.44
+BMW,3 Series,2008,Diesel,Automatic,1000,1,2000,19008.66
+Mercedes,C Class,2011,Hybrid,Manual,19291,0,4000,22834.67
+Tesla,Model Y,2019,Petrol,Manual,20629,3,1500,48496.99
+Bugatti,Chiron,2008,Electric,Automatic,19755,3,1000,1290908.59
+BMW,5 Series,2006,Hybrid,Manual,49591,3,2000,10789.81
+BMW,X5,2017,Electric,Automatic,12460,0,3000,30998.89
+Mercedes,C Class,2008,Diesel,Automatic,25312,3,4000,14383.26
+Porsche,911,2018,Diesel,Automatic,39294,1,1500,77654.98
+Bugatti,Chiron,2006,Hybrid,Manual,44618,3,1500,994688.74
+Bugatti,Chiron,2015,Petrol,Manual,27471,1,2000,1643880.04
+Tesla,Model Y,2019,Petrol,Automatic,9421,3,4000,50684.3
+Audi,A4,2016,Electric,Automatic,147345,2,4000,20025.07
+BMW,5 Series,2005,Petrol,Automatic,45665,1,1500,15230.14
+Tesla,Model Y,2017,Diesel,Automatic,19732,2,1000,41843.58
+Porsche,Cayenne,2009,Diesel,Automatic,25721,2,1000,34812.37
+BMW,3 Series,2005,Petrol,Manual,58595,1,1000,19077.22
+Porsche,Cayenne,2016,Diesel,Manual,25876,1,4000,61924.08
+Porsche,Panamera,2014,Hybrid,Automatic,7708,3,2000,58698.04
+BMW,5 Series,2014,Hybrid,Automatic,26557,1,1000,26450.3
+Mercedes,GLE,2016,Diesel,Manual,63857,1,1500,26122.8
+Mercedes,GLE,2011,Diesel,Manual,14124,2,4000,22262.63
+Tesla,Model Y,2006,Hybrid,Automatic,18494,0,2000,33388.07
+BMW,5 Series,2022,Petrol,Manual,30221,3,3000,33268.01
+Bugatti,Chiron,2006,Petrol,Manual,1165,1,3000,1366727.4
+Tesla,Model Y,2019,Diesel,Automatic,5208,0,1000,60054.61
+Audi,Q7,2011,Electric,Automatic,3113,3,1500,12542.16
+Bugatti,Chiron,2009,Diesel,Automatic,37236,1,1500,1024274.14
+BMW,5 Series,2010,Electric,Manual,13000,0,2000,24777.44
+Tesla,Model S,2018,Petrol,Automatic,57427,1,1000,50153.5
+Audi,A4,2011,Electric,Manual,25042,0,2000,22100.89
+Tesla,Model X,2010,Hybrid,Automatic,19565,1,3000,32582.46
+Tesla,Model S,2011,Petrol,Automatic,5419,1,1000,37635.27
+Audi,A4,2013,Diesel,Manual,22667,2,1500,17282.89
+Tesla,Model 3,2011,Diesel,Manual,19526,3,4000,34812.14
+Porsche,911,2021,Diesel,Manual,5775,0,1000,76418.12
+Mercedes,C Class,2011,Petrol,Manual,32540,1,1500,22421.48
+Bugatti,Chiron,2016,Petrol,Automatic,29086,2,1000,1852143.85
+Audi,A4,2005,Electric,Automatic,54183,3,1500,12503.2
+Porsche,911,2006,Diesel,Automatic,9387,1,4000,29632.84
+Bugatti,Chiron,2014,Hybrid,Manual,15048,3,2000,1504713.73
+Bugatti,Chiron,2019,Hybrid,Automatic,44601,1,4000,2053477.23
+Tesla,Model Y,2017,Diesel,Manual,23829,3,1500,45992.02
+Audi,A4,2018,Hybrid,Manual,56780,0,4000,26774.67
+Bugatti,Chiron,2009,Diesel,Manual,13043,3,1500,1311555.79
+Audi,A6,2014,Diesel,Automatic,67923,2,3000,19821.43
+BMW,5 Series,2020,Hybrid,Automatic,17697,2,3000,39659.61
+Porsche,Panamera,2019,Electric,Manual,1413,1,2000,79109.88
+Audi,Q7,2008,Diesel,Automatic,39472,1,4000,14888.94
+Bugatti,Chiron,2013,Diesel,Automatic,48886,1,2000,1516235.21
+Porsche,Panamera,2015,Petrol,Manual,88937,1,3000,56932.36
+Mercedes,C Class,2022,Hybrid,Automatic,2155,3,1500,34712.26
+BMW,X5,2008,Petrol,Automatic,80953,2,2000,13810.04
+Bugatti,Chiron,2011,Petrol,Manual,1550,2,2000,1325672.78
+Mercedes,GLE,2016,Petrol,Automatic,5553,2,4000,30271.06
+Porsche,Panamera,2008,Electric,Automatic,41026,3,2000,27510.14
+Audi,Q7,2013,Electric,Manual,37465,0,2000,21022.6
+Tesla,Model X,2006,Hybrid,Manual,19184,3,1500,20196.77
+Audi,A6,2007,Diesel,Automatic,26091,0,3000,18534.52
+BMW,3 Series,2012,Electric,Manual,37337,3,2000,20473.06
+Mercedes,E Class,2016,Hybrid,Manual,83858,3,1000,28192.92
+BMW,X5,2020,Petrol,Automatic,23441,2,1500,33711.92
+Mercedes,C Class,2020,Electric,Automatic,42707,0,3000,40286.98
+Audi,A6,2014,Diesel,Manual,26116,3,1000,17066.87
+Mercedes,GLE,2006,Petrol,Automatic,115402,3,1500,12060.34
+Tesla,Model Y,2014,Petrol,Manual,35188,2,1500,36500.2
+Bugatti,Chiron,2018,Hybrid,Manual,24064,3,3000,1722238.45
+BMW,5 Series,2018,Electric,Manual,41496,2,3000,30867.34
+Tesla,Model 3,2019,Hybrid,Automatic,55865,0,3000,56347.42
+Audi,A4,2012,Hybrid,Automatic,23748,0,1000,21754.97
+Porsche,Panamera,2011,Hybrid,Automatic,6870,2,4000,35259.63
+Tesla,Model Y,2012,Hybrid,Automatic,1000,3,1000,40120.3
+Tesla,Model Y,2022,Petrol,Automatic,26351,1,2000,58189.34
+Audi,A6,2021,Petrol,Manual,44499,3,2000,32628.43
+Porsche,Panamera,2013,Electric,Manual,1000,1,3000,48659.58
+Porsche,911,2007,Hybrid,Manual,9318,3,1500,38128.94
+Porsche,911,2011,Petrol,Automatic,12580,3,4000,33549.25
+Porsche,Cayenne,2009,Diesel,Manual,42815,0,3000,36938.56
+Bugatti,Chiron,2007,Petrol,Automatic,15412,1,4000,1324168.49
+Tesla,Model X,2007,Diesel,Automatic,14285,3,3000,24885.57
+BMW,5 Series,2015,Electric,Manual,16669,2,1000,26298.85
+Audi,A6,2017,Diesel,Manual,23139,1,1000,26331.35
+Tesla,Model 3,2006,Diesel,Automatic,40146,3,4000,21728.4
+BMW,X5,2017,Electric,Manual,40292,3,1000,25610.36
+Mercedes,E Class,2018,Diesel,Automatic,1000,3,3000,33515.37
+Audi,A6,2018,Diesel,Automatic,24958,3,2000,26295.58
+Bugatti,Chiron,2013,Petrol,Automatic,89164,2,1500,1400786.99
+Audi,A6,2017,Electric,Manual,12459,1,3000,24668.12
+BMW,3 Series,2008,Electric,Manual,26164,2,2000,17263.3
+BMW,5 Series,2013,Electric,Manual,14373,1,1000,23717.26
+Mercedes,C Class,2018,Electric,Manual,23032,0,1000,34995.03
+BMW,3 Series,2015,Diesel,Automatic,67396,0,2000,30618.31
+Porsche,Panamera,2021,Petrol,Manual,11829,2,4000,76375.44
+Bugatti,Chiron,2017,Electric,Automatic,1406,1,3000,1774734.27
+Audi,A6,2008,Diesel,Automatic,17797,0,3000,19552.26
+BMW,3 Series,2008,Electric,Automatic,79987,0,1000,18294.85
+Bugatti,Chiron,2013,Electric,Manual,7814,3,2000,1437732.79
+Audi,A4,2007,Electric,Manual,30266,3,1000,11473.1
+BMW,5 Series,2020,Diesel,Manual,5584,0,1000,37111.25
+Porsche,Panamera,2018,Hybrid,Manual,46543,3,3000,65077.25
+Tesla,Model Y,2019,Hybrid,Manual,59643,3,1500,53422.37
+Porsche,Cayenne,2021,Diesel,Automatic,7466,3,3000,82943.8
+Mercedes,C Class,2015,Diesel,Automatic,16896,0,4000,26922.58
+Mercedes,C Class,2015,Diesel,Automatic,204922,3,4000,21758.08
+BMW,3 Series,2020,Petrol,Manual,53489,1,2000,40230.16
+Bugatti,Chiron,2005,Electric,Manual,7922,3,4000,1019199.28
+Tesla,Model X,2013,Hybrid,Automatic,1282,0,1500,40573.05
+Audi,A6,2016,Hybrid,Automatic,130017,0,3000,24721.79
+Mercedes,E Class,2009,Electric,Automatic,17463,3,2000,16207.86
+Tesla,Model 3,2010,Petrol,Manual,6622,0,4000,38715.18
+BMW,5 Series,2015,Hybrid,Automatic,9461,3,3000,22484.53
+Tesla,Model X,2005,Diesel,Automatic,23703,0,4000,29096.81
+Porsche,911,2007,Hybrid,Automatic,50539,3,4000,35588.76
+Mercedes,E Class,2015,Petrol,Manual,19487,0,4000,28390.44
+BMW,5 Series,2016,Petrol,Automatic,62634,2,3000,27403.44
+Porsche,Cayenne,2012,Hybrid,Automatic,14713,3,1000,33908.33
+Mercedes,C Class,2008,Hybrid,Automatic,13535,1,4000,19200.92
+Audi,Q7,2015,Diesel,Automatic,5831,3,1000,21813.59
+Mercedes,E Class,2005,Diesel,Automatic,3804,2,1500,15991.29
+Porsche,Panamera,2019,Electric,Automatic,77369,3,1000,62778.35
+Audi,Q7,2022,Diesel,Manual,47446,1,3000,33328.66
+Porsche,Panamera,2011,Electric,Automatic,80045,2,1000,46495.8
+Tesla,Model S,2011,Petrol,Manual,36613,1,2000,40251.71
+Mercedes,GLE,2008,Petrol,Automatic,57373,0,1500,18222.85
+Mercedes,C Class,2019,Diesel,Automatic,1024,1,1000,35488.59
+BMW,X5,2016,Electric,Manual,4051,1,4000,28519.54
+Bugatti,Chiron,2018,Hybrid,Manual,34808,2,4000,1736446.47
+Porsche,911,2021,Diesel,Automatic,9749,3,2000,82073.1
+Bugatti,Chiron,2006,Electric,Automatic,10648,1,3000,1117486.62
+BMW,5 Series,2013,Electric,Manual,1000,3,1500,21577.13
+Bugatti,Chiron,2006,Hybrid,Manual,5208,3,3000,942549.87
+Bugatti,Chiron,2009,Petrol,Automatic,16728,1,2000,1434966.58
+BMW,3 Series,2018,Diesel,Manual,45878,3,4000,25281.49
+Tesla,Model S,2022,Hybrid,Automatic,4426,2,1000,62342.09
+Mercedes,C Class,2012,Diesel,Automatic,21925,2,1000,22884.56
+Mercedes,E Class,2013,Hybrid,Manual,22542,2,4000,25080.4
+Audi,Q7,2022,Electric,Automatic,25971,0,1000,36870.73
+Audi,A4,2018,Petrol,Automatic,1699,2,2000,27327.44
+Tesla,Model X,2013,Diesel,Automatic,55511,1,1000,41610.22
+Mercedes,GLE,2016,Petrol,Automatic,15020,0,1000,32625.25
+Tesla,Model S,2017,Diesel,Manual,10707,1,1000,49975.12
+Bugatti,Chiron,2017,Hybrid,Automatic,90782,0,2000,1816220.89
+Porsche,Cayenne,2011,Hybrid,Manual,4416,0,1500,44260.26
+Porsche,911,2015,Electric,Automatic,5759,3,2000,52131.08
+Bugatti,Chiron,2006,Petrol,Automatic,9869,0,1000,1079562.48
+Mercedes,GLE,2018,Hybrid,Manual,36613,0,1000,32615.69
+BMW,5 Series,2016,Petrol,Manual,7507,2,1000,28640.81
+Mercedes,E Class,2019,Electric,Manual,49870,2,1500,31855.59
+BMW,5 Series,2014,Petrol,Manual,3580,0,3000,25595.84
+BMW,5 Series,2016,Electric,Manual,20435,1,1000,28558.49
+Porsche,911,2016,Electric,Automatic,27435,2,2000,67660.84
+Tesla,Model X,2022,Petrol,Automatic,52833,2,3000,65601.89
+Porsche,Cayenne,2018,Hybrid,Manual,25128,2,2000,69427.01
+Audi,A4,2013,Diesel,Automatic,7560,3,4000,18787.61
+Porsche,Cayenne,2008,Diesel,Automatic,54135,0,2000,39599.72
+Bugatti,Chiron,2022,Diesel,Automatic,82908,2,1000,2265122.01
+Porsche,Cayenne,2006,Petrol,Manual,4278,2,1500,28926.57
+Mercedes,GLE,2020,Electric,Automatic,1176,2,4000,32711.16
+Bugatti,Chiron,2012,Electric,Automatic,35835,2,2000,1368464.45
+Audi,A6,2005,Electric,Automatic,38673,2,1000,13776.13
+Audi,A6,2017,Hybrid,Manual,14122,2,1000,27086.55
+Mercedes,C Class,2022,Hybrid,Manual,29427,0,3000,45395.54
+BMW,X5,2016,Petrol,Manual,12181,3,3000,27505.87
+Bugatti,Chiron,2014,Diesel,Automatic,22556,3,4000,1569091.29
+Mercedes,E Class,2014,Electric,Automatic,3720,2,2000,29818.97
+Tesla,Model S,2018,Electric,Manual,13451,0,2000,49046.86
+BMW,5 Series,2018,Hybrid,Automatic,35646,2,4000,30807.74
+Audi,A4,2009,Diesel,Manual,12336,3,3000,12122.49
+Tesla,Model 3,2011,Hybrid,Manual,39770,2,4000,37444.4
+Audi,A6,2007,Petrol,Automatic,4550,3,2000,13681.65
+Mercedes,E Class,2007,Electric,Manual,24390,1,2000,18542.08
+Mercedes,E Class,2005,Diesel,Manual,28188,3,1500,7561.6
+Tesla,Model S,2020,Petrol,Manual,56657,0,4000,67552.66
+Bugatti,Chiron,2009,Hybrid,Manual,60370,3,4000,1379797.61
+Mercedes,E Class,2006,Petrol,Manual,52443,0,1000,18621.81
+BMW,3 Series,2020,Hybrid,Automatic,34983,2,3000,33802.02
+Porsche,911,2007,Petrol,Manual,5123,3,1500,37720.55
+Tesla,Model 3,2010,Petrol,Automatic,59664,2,3000,33025.89
+Mercedes,GLE,2010,Diesel,Manual,41810,2,3000,16623.12
+Mercedes,GLE,2006,Electric,Manual,1000,3,1500,11502.0
+Tesla,Model X,2013,Diesel,Manual,27268,0,1500,45051.76
+Bugatti,Chiron,2007,Electric,Manual,5975,2,4000,1103887.23
+Bugatti,Chiron,2005,Diesel,Automatic,18652,2,4000,867292.67
+Bugatti,Chiron,2006,Electric,Automatic,206988,0,1000,1094617.8
+Bugatti,Chiron,2017,Petrol,Manual,66527,3,2000,1679326.62
+Tesla,Model S,2013,Hybrid,Automatic,9701,0,2000,44192.81
+Bugatti,Chiron,2019,Electric,Manual,83230,1,2000,2160645.69
+Porsche,911,2016,Electric,Manual,38965,2,2000,59233.55
+Audi,Q7,2015,Hybrid,Manual,4948,2,3000,25211.43
+BMW,5 Series,2011,Hybrid,Automatic,7959,0,1500,19604.92
+Bugatti,Chiron,2016,Diesel,Manual,8051,2,1500,1599729.8
+Audi,A4,2019,Electric,Automatic,13207,1,1000,27646.6
+Mercedes,E Class,2008,Petrol,Automatic,131406,3,3000,13264.98
+Tesla,Model S,2010,Electric,Automatic,15809,2,1500,31881.61
+Mercedes,C Class,2007,Electric,Manual,9691,1,4000,17428.84
+Mercedes,E Class,2007,Hybrid,Manual,4109,1,4000,18015.08
+Mercedes,C Class,2014,Petrol,Manual,4630,1,1000,23441.91
+Audi,A6,2014,Petrol,Automatic,7970,3,1000,20739.91
+Tesla,Model S,2007,Electric,Manual,13472,2,2000,26139.73
+Bugatti,Chiron,2021,Electric,Automatic,4711,1,1000,2019713.93
+BMW,5 Series,2010,Diesel,Manual,21177,0,1000,24774.71
+BMW,X5,2015,Electric,Manual,42684,1,1000,25248.73
+Mercedes,GLE,2013,Petrol,Automatic,3361,0,3000,27258.23
+Porsche,911,2020,Hybrid,Manual,13984,0,1500,81924.56
+Porsche,Cayenne,2016,Petrol,Manual,126649,0,3000,56012.12
+Mercedes,GLE,2015,Petrol,Automatic,56139,3,3000,24257.53
+Tesla,Model S,2014,Hybrid,Manual,35162,3,2000,37903.41
+Tesla,Model X,2005,Hybrid,Manual,36522,1,1500,24324.39
+BMW,5 Series,2020,Hybrid,Automatic,14160,3,1500,34575.85
+BMW,X5,2020,Electric,Automatic,91808,2,1000,34141.97
+BMW,3 Series,2018,Diesel,Automatic,55636,3,3000,28275.16
+Audi,A4,2019,Diesel,Manual,21452,1,3000,28188.66
+BMW,3 Series,2015,Electric,Manual,12485,0,1500,25519.18
+Porsche,911,2007,Hybrid,Automatic,5584,0,4000,40933.15
+Bugatti,Chiron,2010,Petrol,Automatic,105804,3,3000,1374326.58
+Porsche,Panamera,2010,Hybrid,Automatic,18833,3,4000,38277.1
+Bugatti,Chiron,2012,Diesel,Automatic,13182,2,1000,1407740.38
+Audi,A4,2009,Petrol,Manual,42569,3,4000,12975.16
+Porsche,Panamera,2014,Electric,Manual,10615,0,2000,56320.88
+Audi,A4,2010,Diesel,Automatic,56905,3,2000,13108.18
+Mercedes,C Class,2016,Petrol,Automatic,12479,2,3000,27410.95
+Bugatti,Chiron,2020,Petrol,Automatic,1000,1,2000,2231036.4
+Bugatti,Chiron,2009,Petrol,Automatic,1000,0,1000,948862.31
+Porsche,Panamera,2008,Hybrid,Manual,106452,1,1500,34566.98
+BMW,5 Series,2009,Diesel,Automatic,7033,3,3000,14677.45
+Porsche,911,2008,Hybrid,Automatic,26840,0,1500,39817.57
+Porsche,911,2016,Electric,Manual,51666,3,4000,67860.18
+BMW,X5,2013,Diesel,Manual,61614,2,3000,22963.11
+Porsche,Panamera,2005,Diesel,Manual,63245,0,1000,27644.03
+Tesla,Model S,2018,Diesel,Automatic,42550,3,1500,43529.83
+BMW,3 Series,2011,Electric,Automatic,44371,1,2000,22075.57
+BMW,X5,2020,Electric,Manual,21939,3,2000,35785.73
+Audi,Q7,2012,Hybrid,Manual,47343,1,3000,18183.58
+Bugatti,Chiron,2021,Petrol,Manual,16205,1,1500,2052684.19
+Porsche,911,2022,Petrol,Manual,10326,0,2000,92899.16
+Mercedes,GLE,2015,Diesel,Automatic,22366,3,3000,25201.48
+Porsche,Cayenne,2012,Diesel,Automatic,35197,3,3000,44121.39
+Bugatti,Chiron,2021,Hybrid,Automatic,2926,1,1000,2509250.48
+BMW,X5,2017,Hybrid,Manual,72075,2,1500,28391.0
+BMW,3 Series,2009,Petrol,Automatic,30511,2,2000,20663.14
+Bugatti,Chiron,2008,Diesel,Automatic,59096,0,1500,962419.93
+Tesla,Model 3,2016,Hybrid,Automatic,17494,3,2000,42121.65
+Porsche,Cayenne,2006,Hybrid,Automatic,2333,2,3000,33637.13
+Bugatti,Chiron,2022,Hybrid,Automatic,12957,0,2000,2463887.1
+Audi,A4,2006,Petrol,Manual,55103,0,2000,18992.57
+BMW,3 Series,2022,Hybrid,Manual,13554,1,3000,41255.86
+Audi,Q7,2018,Diesel,Manual,46270,0,1500,33664.91
+Porsche,911,2019,Petrol,Manual,21619,3,1500,65103.83
+Bugatti,Chiron,2010,Petrol,Automatic,21387,3,2000,1174818.24
+BMW,5 Series,2013,Petrol,Manual,10559,2,2000,21017.33
+BMW,X5,2009,Electric,Manual,12444,0,1000,21963.55
+Porsche,Panamera,2014,Diesel,Automatic,16934,1,4000,55891.89
+BMW,X5,2018,Petrol,Manual,3106,0,1000,36413.47
+Porsche,Panamera,2009,Hybrid,Manual,20445,2,3000,42804.32
+Bugatti,Chiron,2010,Diesel,Manual,4323,2,4000,1077470.16
+BMW,X5,2020,Petrol,Manual,9682,2,1000,37205.99
+Bugatti,Chiron,2021,Hybrid,Manual,3210,1,2000,2612267.1
+Porsche,Panamera,2021,Petrol,Manual,7091,1,4000,75781.03
+Mercedes,GLE,2022,Hybrid,Automatic,229916,1,3000,39851.32
+Mercedes,E Class,2022,Electric,Manual,8257,3,4000,36989.97
+Porsche,911,2007,Petrol,Manual,13217,0,1000,30560.22
+Porsche,911,2019,Hybrid,Automatic,12148,0,1000,80906.43
+BMW,3 Series,2017,Diesel,Manual,14236,2,3000,28547.69
+Audi,A6,2006,Hybrid,Automatic,13435,1,3000,12698.31
+Tesla,Model X,2018,Electric,Manual,4857,1,3000,53189.46
+Mercedes,E Class,2022,Hybrid,Manual,47264,2,2000,35565.52
+BMW,3 Series,2011,Diesel,Manual,23990,1,4000,23880.54
+Audi,A4,2006,Electric,Manual,62987,2,1500,11164.53
+Bugatti,Chiron,2018,Electric,Manual,103576,0,2000,1852848.28
+Bugatti,Chiron,2011,Diesel,Manual,41801,2,2000,1439221.26
+Bugatti,Chiron,2019,Hybrid,Automatic,8167,0,1000,2001945.89
+Audi,A6,2009,Hybrid,Automatic,76302,0,2000,18129.38
+BMW,3 Series,2013,Hybrid,Automatic,82530,2,1500,19649.82
+Audi,A4,2011,Hybrid,Automatic,30493,3,2000,14215.9
+Bugatti,Chiron,2005,Hybrid,Automatic,30166,2,1500,906077.1
+Bugatti,Chiron,2013,Diesel,Manual,12809,1,2000,1508836.12
+BMW,5 Series,2015,Hybrid,Manual,131333,0,2000,22645.72
+Audi,Q7,2016,Hybrid,Manual,5549,0,4000,29824.03
+Porsche,Panamera,2019,Hybrid,Manual,53781,0,3000,67827.01
+Bugatti,Chiron,2017,Petrol,Automatic,30571,3,1000,1777058.41
+Audi,Q7,2022,Electric,Automatic,166529,2,2000,29951.82
+Porsche,Cayenne,2013,Electric,Automatic,18225,1,1000,55459.39
+Audi,Q7,2012,Electric,Automatic,38200,2,3000,16130.33
+BMW,3 Series,2012,Electric,Manual,63029,2,1000,21967.34
+Bugatti,Chiron,2022,Electric,Automatic,54253,2,1000,2354094.24
+Audi,A4,2006,Diesel,Automatic,42798,2,3000,13672.04
+Tesla,Model X,2005,Diesel,Manual,19713,3,4000,20687.89
+Bugatti,Chiron,2022,Electric,Manual,7596,2,4000,2257024.18
+Tesla,Model Y,2010,Petrol,Manual,12786,1,1000,34456.7
+Tesla,Model S,2006,Diesel,Manual,8451,3,4000,27614.23
+Bugatti,Chiron,2009,Hybrid,Manual,44290,1,4000,1212624.48
+Porsche,Cayenne,2017,Diesel,Manual,4624,1,3000,64188.91
+Mercedes,C Class,2006,Electric,Automatic,25537,1,3000,14351.64
+Porsche,Cayenne,2019,Hybrid,Automatic,4811,2,4000,71769.1
+BMW,X5,2017,Petrol,Manual,92207,0,2000,30226.21
+Bugatti,Chiron,2006,Electric,Manual,10156,1,1500,1088641.47
+Bugatti,Chiron,2012,Petrol,Manual,22422,2,4000,1363677.2
+Bugatti,Chiron,2010,Electric,Automatic,2836,0,1000,1316365.77
+Porsche,Panamera,2014,Diesel,Manual,1000,3,1000,49176.88
+BMW,3 Series,2022,Diesel,Automatic,49198,0,1500,43967.02
+Audi,A4,2018,Hybrid,Automatic,124718,2,1000,22001.64
+Mercedes,C Class,2022,Electric,Manual,3832,2,4000,40334.91
+Bugatti,Chiron,2017,Petrol,Manual,6084,1,1000,1816369.51
+Audi,A4,2017,Hybrid,Automatic,22347,3,2000,21856.98
+Porsche,911,2011,Diesel,Manual,35174,1,3000,47742.38
+Audi,A4,2011,Petrol,Manual,19286,2,1500,14632.39
+Audi,Q7,2017,Diesel,Manual,7056,1,1500,25559.47
+Audi,A4,2005,Hybrid,Automatic,30124,0,1000,16943.53
+Audi,Q7,2009,Electric,Automatic,16528,0,1000,17333.85
+BMW,3 Series,2017,Diesel,Automatic,17312,2,3000,29709.85
+Bugatti,Chiron,2014,Electric,Manual,35364,1,1000,1481951.18
+Audi,A6,2010,Petrol,Manual,2414,2,1000,19142.72
+Porsche,Cayenne,2006,Petrol,Manual,11531,1,4000,24797.67
+Bugatti,Chiron,2021,Electric,Automatic,4543,0,2000,2248040.84
+BMW,3 Series,2005,Petrol,Automatic,6774,1,2000,16376.37
+Mercedes,GLE,2005,Diesel,Manual,72746,0,1500,18144.67
+Bugatti,Chiron,2007,Petrol,Automatic,12231,1,1500,1078609.66
+Porsche,911,2008,Diesel,Automatic,17818,2,2000,36801.26
+BMW,X5,2017,Hybrid,Manual,6572,0,1500,35068.26
+Audi,A6,2007,Petrol,Automatic,1000,3,3000,11153.91
+Porsche,911,2014,Petrol,Manual,42771,1,2000,47030.3
+Porsche,911,2012,Hybrid,Manual,3702,2,1000,33855.86
+Bugatti,Chiron,2006,Electric,Manual,18109,3,1500,716301.57
+Tesla,Model 3,2016,Diesel,Automatic,6111,3,1500,41272.78
+Mercedes,C Class,2016,Electric,Automatic,4069,3,4000,29000.83
+Audi,Q7,2015,Hybrid,Automatic,27624,1,3000,27219.08
+Porsche,Panamera,2016,Petrol,Automatic,51799,1,4000,66439.62
+BMW,5 Series,2009,Hybrid,Manual,11831,0,1500,23460.0
+Porsche,911,2019,Diesel,Automatic,3763,0,2000,77515.72
+Bugatti,Chiron,2007,Hybrid,Automatic,10769,3,3000,1030528.73
+BMW,5 Series,2008,Petrol,Automatic,39732,0,1000,18479.96
+Audi,Q7,2015,Hybrid,Manual,76739,1,4000,21853.68
+Bugatti,Chiron,2015,Diesel,Automatic,15981,3,4000,1589521.83
+BMW,X5,2017,Electric,Manual,33443,2,2000,29521.28
+Audi,A4,2009,Electric,Automatic,35787,3,3000,10488.55
+Porsche,Cayenne,2006,Hybrid,Automatic,69163,1,4000,37742.98
+Tesla,Model Y,2005,Petrol,Manual,38602,1,4000,33173.35
+Tesla,Model S,2022,Petrol,Manual,21274,2,1000,63017.45
+Tesla,Model S,2013,Hybrid,Manual,31009,3,2000,36371.25
+Audi,Q7,2009,Electric,Manual,99980,0,1500,19619.74
+Porsche,Panamera,2013,Diesel,Automatic,6648,0,1000,62460.93
+BMW,5 Series,2006,Diesel,Automatic,36979,1,2000,13929.86
+Tesla,Model Y,2011,Electric,Manual,107570,3,1500,27401.05
+Mercedes,E Class,2020,Hybrid,Manual,20896,0,3000,37641.43
+Bugatti,Chiron,2005,Electric,Manual,20283,3,3000,1066406.67
+Tesla,Model S,2014,Petrol,Manual,1095,2,1000,35984.81
+Audi,Q7,2019,Diesel,Automatic,14942,1,1000,29872.97
+Mercedes,C Class,2022,Hybrid,Automatic,3376,0,2000,38556.39
+Tesla,Model Y,2008,Petrol,Automatic,13202,3,3000,29470.94
+Bugatti,Chiron,2015,Diesel,Automatic,20785,0,1500,1663175.91
+Bugatti,Chiron,2007,Petrol,Automatic,37964,2,2000,1148560.19
+Tesla,Model S,2021,Petrol,Automatic,42480,0,2000,61287.49
+Porsche,Cayenne,2013,Hybrid,Manual,35649,0,1000,54259.06
+Porsche,Panamera,2011,Petrol,Manual,23677,0,3000,41382.33
+BMW,X5,2007,Hybrid,Automatic,31254,2,1500,13670.05
+Bugatti,Chiron,2019,Diesel,Automatic,1000,3,1500,2042831.17
+Mercedes,C Class,2013,Hybrid,Automatic,5280,3,1500,19584.23
+Mercedes,E Class,2018,Petrol,Manual,50349,3,1500,30116.42
+Bugatti,Chiron,2019,Electric,Automatic,1000,1,1500,2231615.1
+Bugatti,Chiron,2019,Electric,Automatic,14728,3,1500,2135139.49
+Porsche,Cayenne,2006,Hybrid,Manual,9197,3,2000,25677.08
+Audi,A6,2019,Diesel,Manual,173658,1,4000,28872.24
+Mercedes,C Class,2006,Hybrid,Automatic,17083,1,3000,19728.34
+Mercedes,E Class,2011,Electric,Manual,15947,1,1500,26183.46
+Bugatti,Chiron,2011,Electric,Automatic,106974,2,4000,1460636.99
+Bugatti,Chiron,2009,Diesel,Manual,70054,1,4000,1047611.33
+Tesla,Model X,2018,Electric,Manual,28156,0,2000,55898.26
+BMW,X5,2005,Petrol,Manual,6030,0,4000,20733.17
+Tesla,Model 3,2019,Diesel,Manual,100586,1,3000,53580.88
+Tesla,Model Y,2020,Electric,Manual,21348,1,2000,59163.6
+Audi,Q7,2011,Petrol,Automatic,35696,1,2000,17767.82
+Tesla,Model S,2019,Hybrid,Manual,13440,2,1500,54805.97
+BMW,3 Series,2020,Hybrid,Automatic,9789,2,4000,31410.66
+Tesla,Model 3,2021,Hybrid,Automatic,1000,0,2000,65062.83
+Tesla,Model S,2007,Diesel,Automatic,54097,0,3000,33605.11
+Audi,Q7,2017,Petrol,Automatic,16163,0,3000,31972.24
+Porsche,911,2021,Electric,Manual,14869,3,2000,84823.26
+BMW,3 Series,2008,Hybrid,Manual,32467,2,1500,15771.86
+BMW,X5,2017,Hybrid,Automatic,2940,2,1000,29690.26
+Porsche,Cayenne,2021,Electric,Automatic,1000,3,1000,74607.09
+Bugatti,Chiron,2017,Diesel,Manual,24304,2,1000,1714248.74
+Porsche,Cayenne,2006,Hybrid,Automatic,30868,2,2000,33091.41
+Tesla,Model Y,2012,Petrol,Automatic,4504,0,1000,37769.25
+Bugatti,Chiron,2015,Petrol,Manual,43061,3,1000,1760271.56
+Audi,A6,2018,Electric,Manual,55832,2,2000,24004.18
+Bugatti,Chiron,2016,Hybrid,Automatic,8060,2,4000,1746406.16
+Bugatti,Chiron,2018,Petrol,Automatic,10686,0,2000,2036258.28
+Tesla,Model Y,2007,Hybrid,Automatic,51666,0,4000,29898.81
+Porsche,911,2015,Petrol,Manual,17826,0,1000,66603.64
+Tesla,Model Y,2011,Petrol,Automatic,45012,0,1000,33838.36
+Porsche,911,2006,Diesel,Automatic,41014,1,3000,36932.17
+Mercedes,C Class,2022,Diesel,Manual,1435,2,2000,36784.95
+Tesla,Model 3,2016,Petrol,Manual,10353,2,2000,39344.28
+Mercedes,C Class,2016,Hybrid,Manual,12339,3,1500,23849.58
+Porsche,Panamera,2009,Diesel,Manual,7838,1,1000,39124.93
+Mercedes,E Class,2009,Diesel,Automatic,2248,2,1000,17899.11
+Tesla,Model 3,2015,Electric,Manual,31748,3,1500,39045.42
+Mercedes,E Class,2018,Hybrid,Automatic,37667,3,1000,25500.05
+BMW,3 Series,2007,Diesel,Manual,95916,3,4000,9119.35
+Porsche,Cayenne,2020,Diesel,Manual,34430,0,2000,72544.1
+Audi,A4,2014,Petrol,Automatic,9087,2,2000,22630.88
+Bugatti,Chiron,2021,Diesel,Automatic,6336,1,1500,2351136.54
+Tesla,Model Y,2020,Diesel,Manual,31721,0,1500,57380.82
+Porsche,Panamera,2016,Electric,Manual,5952,0,1500,57604.54
+Bugatti,Chiron,2011,Diesel,Manual,5683,0,3000,1205936.49
+BMW,5 Series,2019,Petrol,Manual,24470,1,2000,34723.39
+Tesla,Model 3,2010,Diesel,Manual,42384,1,1000,30384.55
+Tesla,Model X,2016,Hybrid,Manual,81670,0,2000,43696.65
+Audi,A6,2020,Petrol,Automatic,1026,3,4000,30713.48
+Tesla,Model X,2008,Diesel,Automatic,9376,1,4000,28311.88
+Mercedes,E Class,2017,Hybrid,Manual,34569,2,4000,27150.62
+Bugatti,Chiron,2019,Diesel,Manual,41187,2,1500,1915053.73
+Tesla,Model 3,2013,Hybrid,Automatic,30682,3,1000,38814.39
+Tesla,Model Y,2005,Diesel,Manual,9107,2,2000,24381.99
+BMW,X5,2014,Electric,Automatic,14327,1,3000,25688.65
+Mercedes,C Class,2011,Electric,Automatic,10995,3,3000,13461.17
+Tesla,Model Y,2006,Petrol,Automatic,29940,1,3000,22251.46
+Porsche,Cayenne,2007,Diesel,Automatic,9710,1,1500,31353.59
+BMW,3 Series,2006,Diesel,Automatic,43321,0,2000,20331.81
+Audi,A6,2016,Hybrid,Manual,12039,2,1000,26503.96
+BMW,3 Series,2007,Electric,Automatic,7797,1,1500,12475.22
+BMW,5 Series,2008,Diesel,Manual,21362,1,3000,17946.54
+Mercedes,C Class,2006,Petrol,Manual,2345,0,3000,20730.14
+Bugatti,Chiron,2009,Hybrid,Manual,9479,3,4000,1031193.07
+Bugatti,Chiron,2009,Petrol,Automatic,149083,3,2000,1263210.7
+Tesla,Model Y,2022,Diesel,Manual,70427,2,4000,64547.49
+BMW,5 Series,2007,Hybrid,Manual,27091,2,2000,19244.89
+Mercedes,C Class,2013,Petrol,Automatic,10229,0,2000,25789.85
+Mercedes,E Class,2015,Electric,Manual,12499,2,1000,26742.57
+Porsche,Cayenne,2012,Petrol,Automatic,53798,2,3000,44013.57
+BMW,X5,2011,Diesel,Manual,5961,0,1500,24782.93
+Bugatti,Chiron,2005,Electric,Automatic,8845,2,1500,1231504.46
+Tesla,Model X,2016,Hybrid,Manual,8934,0,3000,49487.25
+Bugatti,Chiron,2006,Petrol,Manual,40939,0,1500,992371.48
+Mercedes,E Class,2021,Electric,Automatic,18045,1,2000,41123.52
+Bugatti,Chiron,2018,Diesel,Automatic,49340,0,3000,1832776.21
+Audi,Q7,2011,Hybrid,Manual,52455,1,4000,15237.45
+BMW,5 Series,2019,Diesel,Automatic,13716,1,2000,32840.21
+Tesla,Model X,2005,Electric,Manual,36767,2,1500,27099.34
+Audi,A4,2022,Electric,Automatic,18355,1,4000,37618.12
+Mercedes,C Class,2011,Electric,Automatic,29396,0,4000,22990.12
+BMW,5 Series,2009,Diesel,Automatic,37412,0,2000,19409.21
+Tesla,Model 3,2009,Hybrid,Manual,7105,1,1500,29786.31
+Porsche,Cayenne,2014,Electric,Automatic,27576,0,4000,59026.95
+Mercedes,GLE,2010,Electric,Manual,24551,1,3000,21919.02
+Audi,A6,2020,Hybrid,Manual,36504,2,1000,30176.02
+Tesla,Model 3,2020,Petrol,Manual,24251,0,3000,55678.34
+Tesla,Model Y,2020,Electric,Automatic,8967,0,4000,61646.1
+Tesla,Model 3,2019,Electric,Manual,2378,2,2000,52322.75
+Tesla,Model X,2017,Petrol,Manual,29318,0,1500,51008.78
+BMW,5 Series,2009,Petrol,Manual,2679,1,1000,25018.4
+Audi,A4,2013,Diesel,Manual,12882,2,1500,22986.96
+Audi,A6,2005,Petrol,Manual,5757,2,2000,10846.4
+Bugatti,Chiron,2005,Diesel,Manual,1803,0,4000,986015.7
+Mercedes,E Class,2019,Electric,Manual,1000,0,3000,39435.98
+BMW,3 Series,2015,Hybrid,Automatic,10927,2,4000,23826.94
+BMW,5 Series,2011,Diesel,Automatic,18127,1,2000,20743.54
+Mercedes,GLE,2015,Petrol,Automatic,4094,2,2000,24240.89
+Bugatti,Chiron,2020,Hybrid,Manual,11193,0,1500,2143767.5
+Porsche,Cayenne,2005,Diesel,Manual,22841,2,1000,28565.91
+Tesla,Model 3,2008,Electric,Automatic,16731,2,3000,32291.47
+Porsche,Panamera,2021,Electric,Automatic,71320,2,2000,70158.11
+Audi,A6,2019,Hybrid,Automatic,11861,0,3000,30410.23
+Porsche,Cayenne,2009,Diesel,Automatic,32860,2,3000,30082.66
+Tesla,Model S,2021,Diesel,Manual,35372,0,2000,66340.14
+Bugatti,Chiron,2012,Diesel,Automatic,29326,0,3000,1279358.08
+BMW,3 Series,2007,Hybrid,Automatic,16156,3,1500,14865.85
+Porsche,Panamera,2005,Electric,Automatic,18572,1,3000,27156.98
+Porsche,Cayenne,2020,Petrol,Automatic,18675,3,1000,74782.56
+BMW,X5,2005,Electric,Manual,18488,2,1500,13211.23
+Audi,A6,2018,Electric,Manual,1000,3,4000,24654.48
+Bugatti,Chiron,2012,Petrol,Manual,296811,1,3000,1538372.67
+Mercedes,C Class,2008,Electric,Manual,43792,2,1000,14225.23
+Audi,Q7,2012,Diesel,Automatic,1135,2,1500,14094.69
+Mercedes,E Class,2014,Diesel,Automatic,37198,0,2000,29342.1
+BMW,3 Series,2011,Petrol,Manual,48364,2,2000,18085.57
+Porsche,Panamera,2016,Petrol,Manual,59001,1,4000,63472.51
+BMW,5 Series,2016,Electric,Automatic,2378,3,1000,25983.71
+Tesla,Model X,2021,Petrol,Automatic,42044,3,2000,61844.68
+Tesla,Model 3,2012,Electric,Manual,14415,0,1500,42534.25
+Mercedes,E Class,2018,Hybrid,Manual,27570,3,4000,29569.48
+Audi,A6,2018,Petrol,Automatic,7204,3,4000,26764.28
+Tesla,Model Y,2005,Petrol,Manual,6142,0,3000,29563.85
+Audi,A6,2008,Diesel,Automatic,19199,0,3000,18601.34
+Mercedes,E Class,2021,Electric,Automatic,4270,0,4000,39239.62
+Tesla,Model S,2013,Electric,Manual,26582,2,2000,38361.74
+Bugatti,Chiron,2005,Petrol,Automatic,7806,1,1500,886188.62
+Bugatti,Chiron,2019,Electric,Automatic,47156,0,1000,2040058.04
+BMW,X5,2020,Petrol,Automatic,62729,0,4000,36190.69
+Porsche,Cayenne,2020,Diesel,Automatic,30948,1,1000,74391.24
+BMW,5 Series,2010,Petrol,Manual,56685,3,2000,16588.09
+BMW,5 Series,2012,Petrol,Automatic,22620,1,2000,21754.08
+Tesla,Model 3,2007,Hybrid,Manual,46179,1,2000,27844.73
+Audi,A6,2015,Diesel,Manual,8922,0,3000,24562.37
+BMW,3 Series,2020,Hybrid,Automatic,18747,2,1000,34321.38
+Bugatti,Chiron,2014,Electric,Manual,22092,3,1000,1681644.91
+BMW,5 Series,2014,Petrol,Manual,11135,1,1000,27101.45
+BMW,3 Series,2006,Petrol,Manual,49629,2,2000,15268.34
+Bugatti,Chiron,2011,Diesel,Manual,27383,0,1000,1496771.27
+Mercedes,GLE,2015,Hybrid,Automatic,92280,0,1500,28590.27
+BMW,X5,2016,Petrol,Automatic,15689,1,1500,32250.1
+Tesla,Model 3,2007,Hybrid,Automatic,15226,2,3000,24896.8
+Audi,A6,2012,Diesel,Automatic,24125,0,3000,24247.15
+Audi,A6,2017,Hybrid,Manual,8756,1,3000,24782.25
+Audi,Q7,2006,Hybrid,Manual,7001,0,1500,18008.64
+Audi,Q7,2006,Petrol,Manual,10613,3,1500,9779.01
+Porsche,Cayenne,2015,Petrol,Manual,46306,2,3000,47277.47
+Mercedes,E Class,2009,Electric,Automatic,22675,0,3000,20722.98
+Porsche,911,2017,Electric,Manual,40789,2,1500,58629.63
+Tesla,Model Y,2016,Hybrid,Manual,4823,2,2000,41300.03
+Tesla,Model Y,2006,Petrol,Manual,20018,0,3000,30199.87
+Tesla,Model 3,2014,Petrol,Manual,52201,3,1500,37722.79
+Tesla,Model Y,2008,Electric,Manual,151987,0,2000,24906.65
+BMW,3 Series,2013,Hybrid,Manual,12666,3,1000,18298.83
+Porsche,Panamera,2005,Diesel,Automatic,1341,0,2000,38434.92
+Bugatti,Chiron,2017,Electric,Automatic,44474,2,3000,1871516.17
+Tesla,Model X,2010,Petrol,Automatic,12692,2,2000,35197.85
+Mercedes,GLE,2016,Petrol,Manual,30186,1,1000,28968.02
+Mercedes,GLE,2018,Diesel,Manual,56951,2,1000,25503.83
+Mercedes,E Class,2011,Electric,Automatic,51261,0,4000,18744.14
+BMW,X5,2010,Hybrid,Manual,11887,2,3000,21316.36
+Audi,A4,2010,Electric,Manual,10879,0,1000,23001.26
+Bugatti,Chiron,2007,Diesel,Automatic,29116,3,1000,877175.44
+Tesla,Model Y,2014,Hybrid,Automatic,24218,3,2000,34297.6
+Mercedes,C Class,2022,Hybrid,Automatic,6966,1,1500,42888.39
+Bugatti,Chiron,2017,Electric,Manual,1816,1,1000,1758397.31
+BMW,3 Series,2006,Diesel,Automatic,3639,3,2000,9977.18
+Tesla,Model 3,2016,Hybrid,Manual,15914,3,4000,45708.09
+BMW,X5,2012,Electric,Automatic,10100,2,4000,20409.75
+BMW,3 Series,2005,Electric,Automatic,4053,2,3000,13374.53
+Bugatti,Chiron,2007,Hybrid,Manual,79083,0,2000,1075750.14
+Tesla,Model S,2006,Hybrid,Automatic,26904,0,1000,28136.77
+Tesla,Model Y,2006,Electric,Automatic,7950,3,1500,23801.03
+Audi,Q7,2010,Electric,Manual,12378,0,3000,18215.66
+Tesla,Model Y,2018,Petrol,Manual,12015,3,1500,51282.65
+Mercedes,GLE,2009,Petrol,Manual,17805,1,1500,21111.53
+Porsche,911,2008,Electric,Automatic,23366,2,1000,37842.5
+Mercedes,E Class,2017,Diesel,Manual,75095,0,2000,28689.44
+Audi,A4,2008,Electric,Manual,9561,2,2000,10981.01
+BMW,3 Series,2007,Hybrid,Manual,23846,2,1500,17799.09
+Tesla,Model S,2010,Petrol,Manual,107177,3,1500,27579.11
+Mercedes,GLE,2022,Diesel,Manual,18413,3,3000,36094.96
+BMW,X5,2012,Electric,Manual,2197,2,3000,16685.12
+Porsche,Panamera,2008,Electric,Manual,1432,0,2000,40302.9
+Audi,A4,2015,Hybrid,Automatic,56524,0,3000,26773.29
+Porsche,Cayenne,2020,Petrol,Automatic,9440,0,3000,74341.54
+Porsche,911,2009,Electric,Automatic,12139,1,4000,35865.33
+Porsche,911,2005,Electric,Manual,25836,2,2000,32073.6
+BMW,5 Series,2006,Petrol,Automatic,3694,0,1500,20059.63
+Audi,Q7,2018,Electric,Manual,23951,3,2000,25112.58
+Porsche,Cayenne,2018,Petrol,Automatic,29212,0,4000,73385.66
+Bugatti,Chiron,2005,Diesel,Manual,5380,1,1000,1079218.49
+BMW,5 Series,2006,Hybrid,Manual,22955,1,1500,13352.4
+BMW,X5,2010,Electric,Automatic,26348,3,4000,18465.21
+Bugatti,Chiron,2011,Electric,Manual,6799,2,3000,1432792.09
+Tesla,Model Y,2015,Electric,Automatic,36388,0,1000,41756.83
+Tesla,Model X,2020,Hybrid,Automatic,28833,2,2000,58758.8
+Audi,A4,2008,Electric,Automatic,20884,1,4000,21602.74
+Mercedes,C Class,2006,Hybrid,Automatic,24071,1,2000,14183.71
+Bugatti,Chiron,2011,Diesel,Manual,29393,1,2000,1364709.46
+Audi,A4,2018,Hybrid,Automatic,12034,0,3000,29543.01
+Tesla,Model X,2009,Diesel,Manual,55398,1,4000,34132.47
+Bugatti,Chiron,2008,Petrol,Automatic,32187,3,1500,1335058.55
+Porsche,Panamera,2007,Electric,Automatic,19243,2,4000,30506.21
+Tesla,Model X,2011,Diesel,Automatic,27135,2,4000,29248.36
+Mercedes,C Class,2005,Electric,Manual,64977,1,1500,16279.21
+Tesla,Model S,2011,Petrol,Manual,18687,3,1000,34430.6
+Porsche,911,2010,Diesel,Automatic,1000,1,3000,36830.22
+Bugatti,Chiron,2013,Diesel,Manual,11894,0,2000,1343716.57
+Bugatti,Chiron,2017,Petrol,Manual,21077,2,1000,1794092.72
+Tesla,Model X,2011,Diesel,Manual,45670,3,3000,31949.88
+Mercedes,C Class,2013,Electric,Automatic,28618,2,1000,19268.61
+Audi,A4,2018,Diesel,Manual,24163,3,1500,24836.17
+Audi,Q7,2020,Electric,Manual,24625,1,4000,32423.79
+BMW,X5,2018,Diesel,Manual,3466,1,3000,34432.35
+Tesla,Model 3,2007,Hybrid,Manual,16897,1,1000,30216.49
+Porsche,911,2009,Diesel,Automatic,4311,2,3000,44124.77
+Audi,A4,2016,Diesel,Automatic,10879,0,3000,29922.46
+Tesla,Model S,2014,Diesel,Automatic,54764,3,3000,42816.27
+Porsche,911,2007,Diesel,Automatic,12422,3,3000,33662.49
+Porsche,Cayenne,2021,Hybrid,Automatic,1000,0,1000,87839.8
+Bugatti,Chiron,2014,Hybrid,Manual,59582,2,4000,1593067.02
+Bugatti,Chiron,2019,Electric,Automatic,28981,0,1000,2102193.26
+Porsche,Panamera,2020,Electric,Manual,43319,0,1500,74474.83
+BMW,5 Series,2017,Petrol,Manual,1404,0,2000,34821.0
+Audi,A6,2008,Electric,Manual,31349,0,4000,19025.87
+Audi,A4,2007,Petrol,Automatic,28828,3,3000,11491.05
+Bugatti,Chiron,2006,Electric,Automatic,1000,1,2000,940132.59
+BMW,5 Series,2020,Petrol,Manual,11391,0,1000,41242.09
+Tesla,Model 3,2020,Petrol,Manual,29384,3,1500,54411.8
+Audi,A6,2011,Electric,Manual,1000,0,1500,20165.91
+Audi,A4,2010,Hybrid,Manual,12003,0,1000,20580.42
+Audi,Q7,2012,Hybrid,Automatic,38540,2,4000,18946.4
+BMW,3 Series,2008,Electric,Manual,19866,3,2000,17287.8
+Porsche,Cayenne,2012,Diesel,Manual,23214,0,2000,45417.52
+Mercedes,E Class,2008,Diesel,Automatic,38132,1,1000,11847.4
+BMW,X5,2010,Electric,Automatic,14479,3,2000,18782.83
+Mercedes,E Class,2009,Hybrid,Automatic,39006,1,2000,20351.68
+Tesla,Model 3,2006,Petrol,Manual,26559,2,3000,27031.93
+Porsche,911,2020,Petrol,Automatic,23860,1,2000,75918.11
+Porsche,Cayenne,2011,Hybrid,Manual,23567,3,1000,44726.72
+Audi,Q7,2006,Hybrid,Manual,18276,0,2000,15469.64
+Bugatti,Chiron,2011,Hybrid,Manual,29835,2,4000,1414655.57
+Tesla,Model 3,2008,Petrol,Manual,11024,3,1500,29013.23
+BMW,X5,2010,Diesel,Automatic,44598,1,1000,18127.74
+Tesla,Model 3,2008,Electric,Manual,96278,3,2000,28543.48
+Mercedes,E Class,2014,Electric,Manual,3424,3,4000,25332.04
+BMW,X5,2019,Diesel,Automatic,26447,0,1000,37973.52
+Porsche,Panamera,2011,Electric,Manual,76279,2,2000,49834.68
+Tesla,Model X,2017,Hybrid,Automatic,53534,1,4000,50710.78
+Tesla,Model Y,2007,Petrol,Manual,1000,3,3000,30949.92
+Tesla,Model S,2019,Hybrid,Manual,8315,3,1000,50161.66
+Tesla,Model S,2009,Diesel,Automatic,4351,0,4000,34321.44
+BMW,5 Series,2007,Diesel,Manual,11853,0,3000,22391.23
+Audi,Q7,2022,Hybrid,Automatic,63051,0,1000,36062.34
+Audi,A4,2005,Petrol,Automatic,110760,3,1500,8006.57
+Bugatti,Chiron,2005,Electric,Manual,51820,1,1500,1063496.49
+Bugatti,Chiron,2016,Diesel,Automatic,15220,1,2000,1691033.39
+Mercedes,GLE,2020,Diesel,Manual,20369,0,2000,37076.63
+Mercedes,E Class,2009,Hybrid,Manual,77838,1,1000,16034.4
+Mercedes,E Class,2019,Electric,Automatic,88243,0,1000,33755.78
+Audi,A4,2005,Hybrid,Manual,8083,1,3000,11793.87
+BMW,X5,2005,Diesel,Automatic,7724,0,2000,16784.24
+Tesla,Model Y,2014,Petrol,Automatic,61992,1,1500,39915.82
+Audi,A4,2015,Petrol,Automatic,31939,3,1500,19999.52
+Bugatti,Chiron,2017,Diesel,Automatic,11840,0,3000,1644337.56
+Bugatti,Chiron,2019,Diesel,Automatic,27492,1,1500,2044180.25
+Porsche,911,2021,Electric,Manual,35401,2,1000,73175.69
+Mercedes,GLE,2021,Diesel,Automatic,1000,1,3000,37052.03
+Tesla,Model X,2019,Electric,Manual,77049,0,3000,56488.86
+Tesla,Model X,2007,Hybrid,Manual,6475,3,4000,24536.73
+Porsche,Cayenne,2008,Petrol,Automatic,69220,0,2000,33015.16
+Porsche,911,2022,Electric,Manual,21542,3,1500,77062.14
+Porsche,911,2010,Petrol,Automatic,79507,0,4000,48120.71
+Porsche,Cayenne,2021,Petrol,Automatic,98165,1,4000,73356.79
+Mercedes,E Class,2007,Petrol,Manual,11516,0,1500,21481.49
+Porsche,Cayenne,2005,Hybrid,Manual,2057,1,1000,27114.75
+Mercedes,GLE,2016,Electric,Automatic,2055,0,3000,30465.32
+Bugatti,Chiron,2010,Hybrid,Manual,20067,2,1500,1535414.89
+Tesla,Model Y,2015,Hybrid,Manual,26916,0,3000,42364.5
+Mercedes,E Class,2015,Hybrid,Automatic,15933,1,3000,26725.5
+Porsche,Panamera,2007,Hybrid,Automatic,19365,1,1000,32096.07
+Audi,A4,2014,Diesel,Manual,37748,3,2000,20501.2
+Mercedes,GLE,2005,Electric,Automatic,18756,1,4000,13815.58
+Porsche,Panamera,2015,Petrol,Manual,70592,3,4000,55783.86
+Bugatti,Chiron,2006,Diesel,Automatic,8936,3,2000,1192144.81
+BMW,X5,2011,Hybrid,Manual,37645,1,1000,19552.09
+Porsche,Panamera,2005,Diesel,Automatic,72202,1,4000,37880.83
+Audi,A6,2017,Hybrid,Automatic,44873,3,2000,24342.08
+Bugatti,Chiron,2005,Petrol,Automatic,7058,3,1500,1211323.02
+Tesla,Model 3,2017,Petrol,Automatic,10859,0,4000,50675.93
+Audi,A4,2022,Hybrid,Automatic,42710,0,3000,37359.85
+Audi,Q7,2022,Electric,Automatic,54014,3,2000,30732.2
+Tesla,Model Y,2015,Diesel,Automatic,78930,2,1500,40827.18
+Tesla,Model X,2016,Petrol,Automatic,64652,0,1000,48158.57
+Bugatti,Chiron,2012,Diesel,Manual,16905,0,3000,1495937.2
+Tesla,Model S,2021,Hybrid,Manual,4107,3,3000,60466.45
+Porsche,Panamera,2006,Diesel,Manual,18196,2,2000,32817.37
+Bugatti,Chiron,2022,Electric,Automatic,1000,2,4000,2370025.48
+Bugatti,Chiron,2014,Electric,Manual,54980,0,1500,1455541.99
+Mercedes,E Class,2019,Diesel,Automatic,12707,0,1000,33988.76
+Audi,Q7,2011,Petrol,Automatic,25681,2,3000,15915.94
+Bugatti,Chiron,2005,Petrol,Manual,16535,2,4000,1081468.06
+Mercedes,C Class,2009,Hybrid,Automatic,53539,2,2000,19258.2
+Audi,Q7,2014,Diesel,Automatic,15364,2,1000,20154.94
+Bugatti,Chiron,2014,Hybrid,Manual,78644,0,2000,1498894.83
+BMW,5 Series,2016,Petrol,Automatic,24265,1,4000,30816.99
+Porsche,Panamera,2010,Hybrid,Automatic,9017,3,1000,41233.15
+Bugatti,Chiron,2020,Hybrid,Manual,22413,2,3000,2237823.24
+Tesla,Model X,2006,Electric,Manual,74371,0,1000,26503.28
+Audi,A6,2021,Electric,Manual,1000,2,4000,28487.47
+BMW,3 Series,2012,Petrol,Manual,12142,3,1000,22682.21
+Audi,Q7,2014,Diesel,Manual,1535,1,4000,23206.2
+BMW,3 Series,2006,Diesel,Automatic,8088,2,1000,11987.18
+Porsche,Cayenne,2008,Diesel,Automatic,15304,3,1500,37144.35
+Mercedes,GLE,2018,Petrol,Manual,1000,1,3000,35060.96
+Audi,A4,2018,Hybrid,Manual,35467,3,1500,27635.46
+Audi,A4,2011,Petrol,Manual,34391,3,1000,13606.58
+Audi,A4,2014,Hybrid,Manual,35293,0,1000,22257.67
+Mercedes,GLE,2020,Hybrid,Automatic,18125,1,1000,34823.57
+Audi,A4,2009,Diesel,Manual,2599,0,1000,20335.54
+Tesla,Model 3,2022,Diesel,Automatic,17858,2,2000,59993.5
+Mercedes,C Class,2019,Hybrid,Manual,23216,1,1500,33379.82
+Mercedes,GLE,2017,Diesel,Manual,17112,2,3000,29456.62
+Audi,A4,2005,Petrol,Automatic,13568,2,1000,10643.73
+Tesla,Model 3,2013,Diesel,Automatic,2013,1,1000,38054.95
+Mercedes,GLE,2020,Electric,Manual,12450,0,2000,42492.24
+Bugatti,Chiron,2019,Diesel,Automatic,19764,1,1000,2099345.46
+Bugatti,Chiron,2006,Electric,Automatic,44880,3,3000,1041031.09
+Audi,Q7,2012,Electric,Manual,1089,3,4000,18130.68
+BMW,5 Series,2005,Hybrid,Manual,41254,2,2000,12765.21
+Porsche,911,2006,Diesel,Automatic,37750,0,3000,31766.53
+Tesla,Model Y,2005,Electric,Automatic,15047,3,2000,18022.27
+Mercedes,GLE,2013,Diesel,Automatic,30436,1,2000,26142.23
+Mercedes,GLE,2017,Petrol,Manual,10978,3,3000,26689.42
+Audi,Q7,2021,Petrol,Automatic,34842,1,3000,32904.0
+Bugatti,Chiron,2011,Hybrid,Automatic,8931,0,3000,1362730.33
+Audi,A4,2014,Hybrid,Automatic,7931,2,2000,19522.31
+Audi,Q7,2016,Diesel,Manual,47152,2,3000,22905.87
+BMW,5 Series,2014,Diesel,Manual,79735,0,4000,27133.91
+Tesla,Model X,2011,Electric,Manual,127530,2,1500,35345.92
+Audi,Q7,2019,Hybrid,Manual,1673,1,1500,33807.74
+Tesla,Model S,2020,Hybrid,Automatic,10288,2,3000,56856.05
+Mercedes,C Class,2012,Diesel,Manual,4764,0,1500,25415.95
+BMW,X5,2009,Diesel,Manual,47952,3,2000,16353.78
+BMW,3 Series,2022,Diesel,Automatic,1426,3,1000,36796.82
+Tesla,Model 3,2007,Hybrid,Automatic,1000,1,2000,25619.54
+Bugatti,Chiron,2018,Electric,Automatic,32579,3,3000,1831507.23
+Mercedes,E Class,2005,Electric,Manual,8295,3,4000,13942.26
+BMW,5 Series,2022,Electric,Manual,2612,3,1500,35061.8
+Bugatti,Chiron,2008,Electric,Automatic,7215,1,1000,1203874.27
+Tesla,Model X,2019,Diesel,Automatic,3992,3,1500,50560.67
+Mercedes,C Class,2022,Petrol,Manual,31964,1,2000,42101.81
+Tesla,Model 3,2021,Diesel,Automatic,18593,0,1000,64419.1
+Audi,A6,2008,Electric,Manual,1639,3,3000,10727.78
+BMW,5 Series,2006,Electric,Automatic,9244,3,3000,15716.21
+BMW,X5,2016,Diesel,Automatic,9043,1,3000,32407.41
+Bugatti,Chiron,2021,Electric,Manual,23689,0,1000,2213059.77
+Tesla,Model X,2005,Petrol,Manual,20674,3,1000,22900.74
+BMW,3 Series,2021,Hybrid,Automatic,135466,0,4000,38781.05
+Audi,A6,2017,Hybrid,Automatic,13649,1,2000,25633.63
+Bugatti,Chiron,2010,Hybrid,Automatic,25922,0,1000,1245834.54
+BMW,3 Series,2010,Petrol,Manual,19204,1,1000,20011.07
+Audi,Q7,2012,Hybrid,Manual,15245,2,1500,18646.19
+Mercedes,E Class,2017,Petrol,Automatic,36675,3,3000,27011.81
+Porsche,Cayenne,2011,Electric,Manual,72612,3,1500,37253.55
+Tesla,Model 3,2010,Petrol,Automatic,8145,3,4000,32663.92
+Bugatti,Chiron,2014,Diesel,Manual,10904,1,1500,1489142.63
+Mercedes,C Class,2014,Electric,Automatic,32786,2,3000,23112.85
+Audi,Q7,2012,Hybrid,Manual,4569,1,2000,20359.85
+Bugatti,Chiron,2009,Diesel,Manual,46363,3,4000,1281662.05
+Tesla,Model 3,2022,Petrol,Automatic,5439,2,4000,58055.13
+Bugatti,Chiron,2007,Hybrid,Automatic,45733,0,4000,1078523.02
+Mercedes,E Class,2014,Electric,Manual,26987,3,2000,21975.34
+Porsche,911,2014,Diesel,Manual,1000,0,2000,57620.12
+Mercedes,C Class,2011,Petrol,Manual,7332,1,1500,23639.48
+BMW,5 Series,2017,Petrol,Automatic,1000,1,1000,31016.86
+Audi,A6,2016,Hybrid,Manual,1000,1,2000,23925.82
+Porsche,Panamera,2016,Diesel,Manual,36047,1,2000,59183.4
+Mercedes,E Class,2008,Diesel,Manual,38808,1,3000,12425.61
+Bugatti,Chiron,2010,Petrol,Manual,47533,0,3000,1381190.73
+Mercedes,GLE,2017,Hybrid,Manual,3459,2,4000,28587.33
+Tesla,Model 3,2005,Diesel,Manual,55884,0,3000,24955.82
+Audi,A6,2022,Diesel,Manual,10103,0,4000,36198.14
+Audi,Q7,2008,Diesel,Manual,43512,3,1000,8741.18
+Bugatti,Chiron,2011,Diesel,Manual,6887,3,3000,1261644.16
+Porsche,Cayenne,2011,Hybrid,Manual,61193,2,3000,48476.11
+Porsche,911,2015,Petrol,Automatic,27491,2,4000,63856.68
+Tesla,Model 3,2012,Petrol,Manual,6011,3,2000,28713.64
+Porsche,911,2022,Diesel,Automatic,33553,2,3000,83270.51
+BMW,3 Series,2006,Diesel,Automatic,11601,3,1000,11444.32
+BMW,X5,2007,Electric,Manual,21380,2,3000,15801.15
+Tesla,Model S,2007,Electric,Automatic,10494,1,1000,28742.29
+Porsche,Panamera,2012,Hybrid,Manual,69660,0,1000,53531.23
+BMW,3 Series,2005,Hybrid,Automatic,22730,0,4000,20236.54
+Tesla,Model S,2014,Electric,Manual,14886,2,3000,39902.63
+Bugatti,Chiron,2014,Petrol,Manual,11524,3,2000,1548766.29
+Bugatti,Chiron,2013,Petrol,Automatic,30644,3,3000,1664314.92
+Tesla,Model S,2022,Petrol,Automatic,9615,2,1000,61882.42
+Porsche,Panamera,2012,Electric,Automatic,91331,3,2000,44375.56
+Porsche,Cayenne,2008,Hybrid,Manual,20387,0,3000,43081.74
+Porsche,911,2013,Diesel,Automatic,8927,3,1500,39415.11
+Porsche,Panamera,2007,Diesel,Automatic,13729,3,1500,28973.06
+Mercedes,E Class,2014,Hybrid,Manual,50353,0,4000,30101.99
+Audi,Q7,2018,Hybrid,Manual,80370,1,1500,22706.14
+Tesla,Model X,2008,Electric,Manual,34161,0,2000,33934.17
+Tesla,Model S,2006,Diesel,Automatic,34078,1,2000,30647.61
+Porsche,911,2017,Hybrid,Manual,1965,1,4000,56995.63
+Mercedes,GLE,2022,Hybrid,Manual,20877,1,3000,36887.62
+BMW,X5,2022,Hybrid,Manual,31607,3,1000,37164.13
+Audi,A4,2019,Diesel,Automatic,66931,3,2000,25057.52
+BMW,5 Series,2016,Hybrid,Automatic,9482,1,3000,28299.45
+Porsche,911,2011,Electric,Manual,11373,0,2000,50652.94
+BMW,5 Series,2007,Diesel,Automatic,51170,3,1000,11836.71
+Bugatti,Chiron,2018,Petrol,Automatic,34184,1,2000,2105777.34
+Bugatti,Chiron,2016,Diesel,Manual,19234,2,1000,1565830.22
+Tesla,Model 3,2014,Petrol,Automatic,7904,1,2000,42601.81
+Audi,A6,2009,Diesel,Automatic,41361,1,4000,16498.66
+Porsche,Panamera,2019,Hybrid,Automatic,13793,2,1500,72512.39
+Tesla,Model X,2010,Diesel,Automatic,60300,3,1000,32691.95
+Porsche,911,2021,Petrol,Automatic,7533,2,4000,86812.62
+Tesla,Model 3,2019,Electric,Manual,1000,1,1500,54621.75
+Porsche,Panamera,2005,Petrol,Automatic,1000,2,2000,34967.53
+Mercedes,E Class,2020,Hybrid,Manual,132883,1,1000,33624.0
+Audi,A4,2012,Electric,Automatic,8649,0,1500,20492.25
+BMW,5 Series,2011,Petrol,Manual,12942,1,2000,21687.76
+Bugatti,Chiron,2016,Petrol,Manual,34982,2,1000,1542716.64
+Porsche,911,2009,Hybrid,Manual,60927,2,3000,37685.7
+Audi,A6,2020,Petrol,Manual,69336,3,4000,28154.72
+Porsche,Cayenne,2012,Electric,Automatic,40700,3,1500,49063.6
+Bugatti,Chiron,2006,Hybrid,Manual,21945,1,1000,926364.47
+Porsche,Panamera,2015,Electric,Automatic,16393,1,1000,50608.11
+Porsche,911,2013,Electric,Manual,5896,3,4000,43569.03
+Bugatti,Chiron,2017,Electric,Automatic,110210,2,2000,1915844.79
+Bugatti,Chiron,2020,Hybrid,Automatic,13862,1,1000,2070693.46
+Audi,A4,2008,Electric,Automatic,21230,3,1000,10082.3
+Bugatti,Chiron,2008,Petrol,Automatic,27968,1,3000,1161984.52
+Bugatti,Chiron,2017,Diesel,Automatic,91958,3,1500,1694593.44
+Tesla,Model Y,2006,Petrol,Automatic,22838,1,1500,26187.74
+Bugatti,Chiron,2005,Diesel,Manual,43560,1,2000,920644.86
+Porsche,Cayenne,2009,Diesel,Manual,13290,0,1500,42928.59
+Mercedes,E Class,2015,Hybrid,Automatic,7676,3,4000,24910.13
+Porsche,Cayenne,2005,Electric,Automatic,1000,3,1500,26839.31
+Audi,A4,2014,Electric,Automatic,15008,0,1000,26153.75
+Mercedes,E Class,2019,Hybrid,Automatic,11082,3,2000,29811.26
+Bugatti,Chiron,2008,Hybrid,Automatic,7087,2,3000,1220095.94
+Audi,Q7,2007,Hybrid,Automatic,30667,3,4000,12326.85
+Porsche,Panamera,2021,Electric,Automatic,11558,3,1000,76961.71
+Mercedes,GLE,2011,Hybrid,Manual,10588,1,1000,26331.94
+Porsche,Panamera,2016,Petrol,Manual,79275,1,1000,59883.86
+Audi,Q7,2007,Petrol,Automatic,19841,3,2000,13188.31
+Audi,A6,2016,Electric,Automatic,6560,1,3000,28789.78
+Audi,Q7,2019,Electric,Automatic,10937,3,1000,24677.78
+Porsche,Panamera,2018,Petrol,Manual,1000,0,3000,61998.86
+Porsche,Panamera,2019,Diesel,Automatic,13313,3,1000,81208.59
+BMW,X5,2014,Electric,Manual,8780,0,1000,32334.43
+Porsche,911,2012,Petrol,Manual,63249,1,1000,47872.89
+Bugatti,Chiron,2015,Diesel,Automatic,63786,2,1000,1738781.81
+BMW,5 Series,2011,Hybrid,Manual,57973,2,1500,21769.78
+Tesla,Model 3,2006,Diesel,Automatic,14130,2,4000,19934.63
+Mercedes,C Class,2008,Hybrid,Automatic,25337,2,2000,11858.59
+Tesla,Model X,2013,Hybrid,Automatic,56387,1,1500,33240.83
+BMW,3 Series,2015,Diesel,Manual,30193,1,1000,24057.31
+Bugatti,Chiron,2005,Hybrid,Automatic,12127,0,1500,1083614.32
+Porsche,911,2020,Diesel,Manual,50003,1,3000,77046.04
+BMW,3 Series,2010,Petrol,Manual,119706,1,1500,18156.49
+BMW,5 Series,2016,Hybrid,Manual,100449,3,3000,21833.94
+Bugatti,Chiron,2020,Electric,Manual,19226,3,2000,2272918.63
+Porsche,Cayenne,2013,Hybrid,Automatic,86531,2,4000,54104.8
