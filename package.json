@@ -1,8 +1,0 @@
-{
-  "name": "used-car-ai-premium",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "start": "python app.py"
-  }
-}
